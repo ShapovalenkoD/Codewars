@@ -23,3 +23,7 @@ function dontGiveMeFive(start, end) {
   }
   return count
 }
+
+Vasi solution
+dontGiveMeFive = (s, e) => Array(e - s + 1).fill().filter((_,i) => !/5/g.test(`${i+s}`)).length;
+
