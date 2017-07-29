@@ -1,0 +1,1 @@
+let result = dontGiveNumber = start => F1 = end => end < start ? 0:!/5/.test(end) + F1(end-1)
