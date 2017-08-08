@@ -1,0 +1,18 @@
+https://www.codewars.com/kata/56541980fa08ab47a0000040
+
+my solution плохое решения))
+function printerError(s) {
+    const REGEX = /[a-m]/;
+    let count = 0; 
+    const l = s.split("").sort().map((y) => REGEX.test(y) ? y : ++count);
+    const lastNumber = l[l.length-1]
+    return lastNumber == 'm' ? 0 + "" + "/" + l.length + "" : lastNumber + "" + "/" + l.length + ""
+}
+
+top solution 
+function printerError(s) {
+    return s.match(/[^a-m]/g).length + "/" + s.length;
+}
+
+cleave solution 
+const printerError = s => `${s.replace(/[a-m]/gi, "").length}/${s.length}`;
