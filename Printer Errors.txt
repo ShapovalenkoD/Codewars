@@ -1,12 +1,12 @@
 https://www.codewars.com/kata/56541980fa08ab47a0000040
 
-my solution плохое решения))
+my solution
 function printerError(s) {
     const REGEX = /[a-m]/;
     let count = 0; 
     const l = s.split("").sort().map((y) => REGEX.test(y) ? y : ++count);
     const lastNumber = l[l.length-1]
-    return lastNumber == 'm' ? 0 + "" + "/" + l.length + "" : lastNumber + "" + "/" + l.length + ""
+    return lastNumber == 'm' ? 0 + "/" + l.length : lastNumber + "/" + l.length
 }
 
 top solution 
