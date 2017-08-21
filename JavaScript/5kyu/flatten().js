@@ -1,4 +1,3 @@
-// https://www.codewars.com/kata/flatten/train/javascript
 // My solution
 function flatten() {
     let result = [];
