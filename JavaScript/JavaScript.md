@@ -28,7 +28,7 @@
 * [CodeWars](https://www.codewars.com/kata/is-a-number-prime/train/javascript) - [Is a number prime](6kyu/IsANumberPrime.js) : нахождения простого числа, мое решения находит все простые числа до n, забавное решения в ответах было :))
 * [CodeWars](https://www.codewars.com/kata/longest-palindrome/javascript) - [longest palindrome](6kyu/longestPalindrome.js) : Палиндром, топ решения намного лучше, там сокращается массив
 * [CodeWars](https://www.codewars.com/kata/multiples-of-3-and-5/train/javascript) - [Multiples of 3 and 5](6kyu/MultiplesOf3And5.js)
-* [CodeWars](https://www.codewars.com/kata/simple-encryption-number-1-alternating-split/train/javascript) - [Simple encryption #1 - alternating split](6kyu/SimpleEncryption%231-AlternatingSplit.js) : две задачки в одной, ~~ побитовое приведения к меньшему числу = Math.floor(), интересные решения 
+* [CodeWars](https://www.codewars.com/kata/simple-encryption-number-1-alternating-split/train/javascript) - [Simple encryption #1 - alternating split](6kyu/SimpleEncryption%231-AlternatingSplit.js) : рекурсия, две задачки в одной, ~~ побитовое приведения к меньшему числу = Math.floor(), интересные решения 
 * [CodeWars](https://www.codewars.com/kata/split-strings/train/javascript) - [Split strings](6kyu/SplitStrings.js) : плохое решения, надо было через RegExp .match/../ - два любых значения, если не будет второго значения не чего не вернёт.
 * [CodeWars](https://www.codewars.com/kata/sum-consecutives/train/javascript) - [Sum consecutives](6kyu/SumConsecutives.js)
 * [CodeWars](https://www.codewars.com/kata/title-case/javascript) - [Title case](6kyu/TitleCase.js) : RegExp, интересная задачка, немного обманул систему не мог пройти 1 тест через регулярное выражения, очень интересные решения есть. 
