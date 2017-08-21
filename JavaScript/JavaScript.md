@@ -36,7 +36,7 @@
 * [CodeWars](https://www.codewars.com/kata/vasya-clerk/train/javascript) - [Vasya - clerk](6kyu/Vasya-Clerk.js) switch - case = if - else
 * [CodeWars](https://www.codewars.com/kata/weird-string-case/train/javascript) - [WeIrD StRiNg CaSe](6kyu/WeIrDStRiNgCaSe.js) : в решениях присутсвует RegExp
 * [CodeWars](https://www.codewars.com/kata/550554fd08b86f84fe000a58) - [Which are in](6kyu/WhichAreIn.js) : RegExp в цикле
-* [CodeWars]() - [Who likes it](6kyu/WhoLikesIt.js)
+* [CodeWars](https://www.codewars.com/kata/weird-string-case/train/javascript) - [Who likes it](6kyu/WhoLikesIt.js) : switch - case
 * [CodeWars]() - [](6kyu/.js)
 * [CodeWars]() - [](6kyu/.js)
 
