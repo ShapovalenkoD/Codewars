@@ -1,6 +1,4 @@
-https://www.codewars.com/kata/build-tower/train/javascript
-
-my solution
+// My solution
 function towerBuilder(nFloors) {
     let arr = [], res = [], res2 = [], res3 = [];
     for (let i = 0; i < nFloors; i++) {
@@ -34,11 +32,10 @@ function towerBuilder(nFloors) {
             return x
         }))
     }
-
-    return res3.reverse()//arr.length
+    return res3.reverse()
 }
 
-top solution 
+// Top solution 
 function towerBuilder(n) {
   return Array.from({length: n}, function(v, k) {
     const spaces = ' '.repeat(n - k - 1);
@@ -46,7 +43,7 @@ function towerBuilder(n) {
   });
 }
 
-cleaver solution
+// Cleaver solution
 function towerBuilder(n) {
   return [...Array(n)].map((_,i)=>" ".repeat(n-1-i)+"*".repeat(i*2+1)+" ".repeat(n-1-i))
 }

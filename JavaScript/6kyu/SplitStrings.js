@@ -1,6 +1,4 @@
-https://www.codewars.com/kata/split-strings/train/javascript
-
-my solution
+// My solution
 function solution(str){
    let arr = [];
    for (var i = 0; i < str.length; i = i +2) {
@@ -11,11 +9,12 @@ function solution(str){
    return arr
 }
 
-top solution 
+// Top solution 
 function solution(str) {
   return (str.length % 2 ? str + '_' : str).match(/../g);
 }
 
-clever solution
+// Clever solution
+function solution(str) {
    return (str + "_").match(/../g);
 }

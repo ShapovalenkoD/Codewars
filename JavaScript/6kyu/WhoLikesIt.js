@@ -1,6 +1,4 @@
-https://www.codewars.com/kata/who-likes-it/train/javascript
-
-my solution
+// My solution
 function likes(names) {
   const len = names.length
   switch (len) {
@@ -22,7 +20,7 @@ function likes(names) {
    }
 }
 
-top solution
+// Top solution
 function likes(names) {
   names = names || [];
   switch(names.length){
@@ -34,7 +32,7 @@ function likes(names) {
   }
 }
 
-cleaver solution 
+// Cleaver solution 
 function likes (names) {
   var templates = [
     'no one likes this',

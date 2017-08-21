@@ -1,7 +1,0 @@
-top solution 
-
-function remove(s){
-  return s.split(' ').filter(i => i.split('!').length != 2).join(' ');
-}
-
-Метод filter() создаёт новый массив со всеми элементами, прошедшими проверку, задаваемую в передаваемой функции.

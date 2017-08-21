@@ -1,6 +1,4 @@
-https://www.codewars.com/kata/56541980fa08ab47a0000040
-
-my solution
+// My solution
 function printerError(s) {
     const REGEX = /[a-m]/;
     let count = 0; 
@@ -9,10 +7,10 @@ function printerError(s) {
     return lastNumber == 'm' ? 0 + "/" + l.length : lastNumber + "/" + l.length
 }
 
-top solution 
+// Top solution 
 function printerError(s) {
     return s.match(/[^a-m]/g).length + "/" + s.length;
 }
 
-cleave solution 
+// Cleave solution 
 const printerError = s => `${s.replace(/[a-m]/gi, "").length}/${s.length}`;

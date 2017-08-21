@@ -1,4 +1,4 @@
-my solution
+// My solution
 function goodVsEvil(good, evil){
   const goodPower = [1, 2, 3, 3, 4, 10]
   const evilPower = [1, 2, 2, 2, 3, 5, 10]
@@ -13,7 +13,7 @@ function goodVsEvil(good, evil){
   }
 }
 
-top solution 
+// Top solution 
 function goodVsEvil(good, evil) {  
   var getWorth = function( side, worth ) {
     return side.split(' ').reduce( function(result, value, index) { 

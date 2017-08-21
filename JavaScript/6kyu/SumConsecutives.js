@@ -1,6 +1,4 @@
-https://www.codewars.com/kata/sum-consecutives/train/javascript
-
-my solution
+// My solution
 function sumConsecutives(s) {
   let res = []
   let count = s[0];
@@ -15,7 +13,7 @@ function sumConsecutives(s) {
   return res
 }
 
-top solution 
+// Top solution 
 function sumConsecutives(s) {
   return s.reduce(function(prev, curr, i, arr) {
     if(curr != arr[i - 1]) prev.push(curr);

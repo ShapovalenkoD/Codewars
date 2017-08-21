@@ -1,4 +1,4 @@
-my solution
+// My solution
 function inArray(array1,array2){
   const a2 = array2.join(" ")
   let r = [];
@@ -11,7 +11,7 @@ function inArray(array1,array2){
   return  r.sort()
 }
 
-top solution 
+// Top solution 
 function inArray(arr1, arr2) {
   return arr1.filter(function(needle) {
     return arr2.some(function(haystack) {
@@ -20,7 +20,7 @@ function inArray(arr1, arr2) {
   }).sort();
 }
 
-cleaver solution
+// Cleaver solution
 function inArray(array1,array2){
   return array1
     .filter(a1 => array2.find(a2 => a2.match(a1)))

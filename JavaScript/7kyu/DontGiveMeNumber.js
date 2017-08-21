@@ -1,6 +1,4 @@
-let result = dontGiveNumber = start => F1 = end => end < start ? 0:!/5/.test(end) + F1(end-1)
-
-My solution
+// My solution
 function dontGiveMeFive(start, end){ 
   let result = 0; 
   for (var i = start; i <= end; i++) { 
@@ -13,7 +11,7 @@ function dontGiveMeFive(start, end){
   return result 
 }
 
-top tolution 
+// Top tolution 
 function dontGiveMeFive(start, end) {
   let count = 0
   for (let i = start; i <= end; i++) {
@@ -24,6 +22,9 @@ function dontGiveMeFive(start, end) {
   return count
 }
 
-Vasi solution
+// Clever solution
+let result = dontGiveNumber = start => F1 = end => end < start ? 0:!/5/.test(end) + F1(end-1)
+
+// Vasi solution
 dontGiveMeFive = (s, e) => Array(e - s + 1).fill().filter((_,i) => !/5/g.test(`${i+s}`)).length;
 

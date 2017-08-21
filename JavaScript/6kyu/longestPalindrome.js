@@ -1,4 +1,4 @@
-my solution
+// My solution
 longestPalindrome=function(s){
   var result = "";
   for (var i = 0; i < s.length; i++) {
@@ -10,7 +10,7 @@ longestPalindrome=function(s){
   return result.length
 }
 
-top solution 
+// Top solution 
 longestPalindrome=function(s){
   var longest = 0;
   var length = s.length;
@@ -27,12 +27,7 @@ longestPalindrome=function(s){
   return longest;
 }
 
-function isPalindrome(s) {
-  var arr = s.split("");
-  return s == arr.reverse().join("");
-}
-
-clever solution
+// Clever solution
 var longestPalindrome=function(s){
   if (!s) return 0;
   for (let c = s.length; c > 0; c--) {

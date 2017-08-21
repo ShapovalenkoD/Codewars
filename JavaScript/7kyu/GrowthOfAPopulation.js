@@ -1,6 +1,4 @@
-https://www.codewars.com/kata/growth-of-a-population/train/javascript
-
-my solution
+// My solution
 function nbYear(p0, percent, aug, p) {
   let count = 0 
   for (var i  = 0 ; p0 < p; i++) {
@@ -10,13 +8,13 @@ function nbYear(p0, percent, aug, p) {
   return count
 }
 
-top solution
+// Top solution
 function nbYear(p0, percent, aug, p) {
   for(var y = 0; p0 < p; y++) p0 = p0 * (1 + percent / 100) + aug;
   return y;
 }
 
-clever solution 
+// Clever solution 
 function nbYear(p0, percent, aug, p) {
   if(p0 >= p) {
     return 0;

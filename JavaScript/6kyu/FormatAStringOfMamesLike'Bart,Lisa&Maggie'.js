@@ -1,6 +1,4 @@
-https://www.codewars.com/kata/format-a-string-of-names-like-bart-lisa-and-maggie/train/javascript
-
-my solution
+// My solution
 function list(names){
   let b = []
   for (let a of names) {
@@ -14,7 +12,7 @@ function list(names){
   }
  }
 
-top solution
+// Top solution
 function list(names){
   return names.reduce(function(prev, current, index, array){
     if (index === 0){
@@ -29,7 +27,7 @@ function list(names){
   }, '');
  }
 
-clever solution 
+// Clever solution 
 function list(names) {
   var xs = names.map(p => p.name)
   var x = xs.pop()

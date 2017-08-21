@@ -1,6 +1,4 @@
-https://www.codewars.com/kata/most-digits/train/javascript
-
-my solution
+// My solution
 function findLongest(array){
   let num0 = 0
   let max = array.map(function(num1) {
@@ -11,11 +9,11 @@ function findLongest(array){
   return num0
 }
 
-top solution
+// Top solution
 const findLongest = l => l
   .reduce((a, b) => (`${b}`.length > `${a}`.length) ? b : a);
 
-second solution 
+// Second solution 
 function findLongest(array){
   return array.reduce((res, curr) => (String(res).length < String(curr).length) ? curr : res);
 }

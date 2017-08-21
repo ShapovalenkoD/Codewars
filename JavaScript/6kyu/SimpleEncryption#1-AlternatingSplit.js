@@ -1,6 +1,4 @@
-https://www.codewars.com/kata/simple-encryption-number-1-alternating-split/train/javascript
-
-my solution
+// My solution
 function encrypt(text, n) {
   if (n <= 0 || text == null) {
     return text
@@ -29,7 +27,7 @@ function decrypt(encryptedText, n) {
   }
 }
 
-top solution 
+// Top solution 
 function encrypt(text, n) {
   console.log(text, n);
   if (!text || n <= 0) return text; 
@@ -62,7 +60,7 @@ function decrypt(encryptedText, n) {
   return encryptedText;
 }
 
-clever solution 
+// Clever solution 
 function encrypt(text, n) {
   for (let i = 0; i < n; i++) {
     text = text && text.replace(/.(.|$)/g, '$1') + text.replace(/(.)./g, '$1') 

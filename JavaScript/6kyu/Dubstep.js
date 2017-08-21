@@ -1,11 +1,9 @@
-https://www.codewars.com/kata/551dc350bf4e526099000ae5/solutions/javascript
-
-my solution
+// My solution
 function songDecoder(song){
   return song.replace(/WUB/gi, " ").trim().replace(/\s{2,}/g, ' ')
 }
 
-top solution
+// Top solution
 function songDecoder(song){
   return song.replace(/(WUB)+/g," ").trim()
 }

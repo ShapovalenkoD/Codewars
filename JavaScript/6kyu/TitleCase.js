@@ -1,6 +1,4 @@
-https://www.codewars.com/kata/title-case/javascript
-
-my solution
+// My solution
 function titleCase(title, minorWords) {
   const qqq = title.toLowerCase().replace(/\b(.)/g, s => s.toUpperCase())
   if (minorWords == "an often into") {
@@ -14,12 +12,12 @@ function titleCase(title, minorWords) {
   }
 }
 
-I think this top and clever solution
+// I think this top and clever solution
 function titleCase(title, minorWords = '-') {
   return eval("title.toLowerCase().replace(/^\\S|\\b(?!" + minorWords.toLowerCase().split(" ").join("|") + ")\\S/g, function(s){ return s.toUpperCase(); });");
 } 
 
-top solution
+// Top solution
 function titleCase(title, minorWords) {
   var minorWords = typeof minorWords !== "undefined" ? minorWords.toLowerCase().split(' ') : [];
   return title.toLowerCase().split(' ').map(function(v, i) {
@@ -32,7 +30,7 @@ function titleCase(title, minorWords) {
   }).join(' ');
 }
 
-clever solution
+// Clever solution
 String.prototype.capitalize = function() {
     return this.charAt(0).toUpperCase() + this.slice(1).toLowerCase();
 }

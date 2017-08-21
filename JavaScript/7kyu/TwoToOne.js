@@ -1,14 +1,4 @@
-https://www.codewars.com/kata/two-to-one/train/javascript
-
-top solution
-const longest = (s1, s2) => [...new Set(s1+s2)].sort().join('')
-
-second solution
-function longest(s1, s2) {
-  return Array.from(new Set(s1 + s2)).sort().join('');
-}
-
-My solution
+// My solution
 function longest(s1, s2) {
  const arr = s1 + s2;
  const arrSort = arr.split("").sort();
@@ -20,3 +10,12 @@ function longest(s1, s2) {
  }
  return resultArr.join("")
 }
+
+// Top solution
+const longest = (s1, s2) => [...new Set(s1+s2)].sort().join('')
+
+// Second solution
+function longest(s1, s2) {
+  return Array.from(new Set(s1 + s2)).sort().join('');
+}
+

@@ -1,6 +1,4 @@
-https://www.codewars.com/kata/decode-the-morse-code/train/javascript
-
-my solution
+// My solution
 decodeMorse = function(morseCode){
     const arr = morseCode.split("  ")
     let result = []
@@ -17,7 +15,7 @@ decodeMorse = function(morseCode){
   return result.join("").trim()
 }
 
-top solution
+// Top solution
 decodeMorse = function(morseCode){
   function decodeMorseLetter(letter) {
     return MORSE_CODE[letter];
@@ -28,7 +26,7 @@ decodeMorse = function(morseCode){
   return morseCode.trim().split('   ').map(decodeMorseWord).join(' ');
 }
 
-clever solution 
+// Clever solution 
 decodeMorse = function(morseCode){
   return morseCode.trim().split(' ').map(a => MORSE_CODE[a] || ' ').join('').replace(/\s+/g, ' ');
 }

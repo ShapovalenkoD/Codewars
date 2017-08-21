@@ -1,6 +1,4 @@
-https://www.codewars.com/kata/find-the-odd-int/train/javascript
-
-my solution
+// My solution
 function findOdd(A) {
   for (var i = 0; i < A.length; i++){
     let count = 0;
@@ -13,5 +11,5 @@ function findOdd(A) {
  }
 }
 
-top solution 
+// Top solution 
 const findOdd = (xs) => xs.reduce((a, b) => a ^ b);

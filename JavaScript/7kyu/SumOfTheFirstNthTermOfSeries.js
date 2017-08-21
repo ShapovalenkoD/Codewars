@@ -1,6 +1,4 @@
-https://www.codewars.com/kata/sum-of-the-first-nth-term-of-series/train/javascript
-
-my solution
+// My solution
 function SeriesSum(n) {
   let result = 0;
   let a = 1;
@@ -11,7 +9,7 @@ function SeriesSum(n) {
   return result.toFixed(2) 
 }
 
-top solution
+// Top solution
 function SeriesSum(n) {
   for (var s = 0, i = 0; i < n; i++) {
     s += 1 / (1 + i * 3)

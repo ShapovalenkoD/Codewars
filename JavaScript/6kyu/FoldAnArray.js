@@ -1,6 +1,4 @@
-https://www.codewars.com/kata/57ea70aa5500adfe8a000110
-
-my solution
+// My solution
 function foldArray(array, runs) {
     if (runs <= 0) {
         return array
@@ -21,7 +19,7 @@ function foldArray(array, runs) {
     }
 };
 
-top solution 
+// Top solution 
 function foldArray(a, n) {
   const r = [], c = a.slice();
   while (c.length) r.push(c.pop() + (c.shift() || 0));

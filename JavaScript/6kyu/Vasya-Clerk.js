@@ -1,6 +1,4 @@
-https://www.codewars.com/kata/vasya-clerk/train/javascript
-
-my solution
+// My solution
 function tickets(peopleInLine){
 let res = "";
 let count25 = 0;
@@ -23,7 +21,7 @@ peopleInLine.map(function(s) {
 return res == "YES" ? "NO" : "YES"
 }
 
-top solution
+// Top solution
 function tickets(peopleInLine) {
   var bills = [0, 0, 0]
   for (var i = 0; i < peopleInLine.length; i++) {
