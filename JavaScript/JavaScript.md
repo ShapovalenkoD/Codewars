@@ -6,13 +6,13 @@
 ### <a name="8kyu">8 kyu</a>
 
 ### <a name="7kyu">7 kyu</a>
-* [Categorize new member](7kyu/CategorizeNewMember.js) - [CodeWars](https://www.codewars.com/kata/categorize-new-member/train/javascript)
-* [Credit card mask](7kyu/CreditCardMask.js) - [CodeWars](https://www.codewars.com/kata/5412509bd436bd33920011bc) : RegExp
-* [Dont give me number](7kyu/DontGiveMeNumber.js) - [CodeWars](https://www.codewars.com/kata/5813d19765d81c592200001a)
+* [CodeWars](https://www.codewars.com/kata/categorize-new-member/train/javascript) - [Categorize new member](7kyu/CategorizeNewMember.js)
+* [CodeWars](https://www.codewars.com/kata/5412509bd436bd33920011bc) - [Credit card mask](7kyu/CreditCardMask.js) : RegExp
+* [CodeWars](https://www.codewars.com/kata/5813d19765d81c592200001a) - [Dont give me number](7kyu/DontGiveMeNumber.js)
 
 ### <a name="6kyu">6 kyu</a>
-* [Bouncing balls](6kyu/BouncingBalls.js) - [CodeWars](https://www.codewars.com/kata/bouncing-balls/train/javascript)
-* [Build tower](6kyu/BuildTower.js) - [CodeWars](https://www.codewars.com/kata/build-tower/train/javascript) : RegExp, метод .repeat (для дублирования строк) плохое решения, код можно упростить.
+* [CodeWars](https://www.codewars.com/kata/bouncing-balls/train/javascript) - [Bouncing balls](6kyu/BouncingBalls.js)
+* [CodeWars](https://www.codewars.com/kata/build-tower/train/javascript) - [Build tower](6kyu/BuildTower.js) : RegExp, метод .repeat (для дублирования строк) плохое решения, код можно упростить.
 * [Decode the morse code](6kyu/DecodeTheMorseCode.js) - [CodeWars](https://www.codewars.com/kata/decode-the-morse-code/train/javascript) 
 * [Find the odd int](6kyu/FindTheOddInt.js) - [CodeWars](https://www.codewars.com/kata/find-the-odd-int/train/javascript) : используется побитовое сравнения - ^ 
 * [Dubstep](6kyu/Dubstep.js) - [CodeWars](https://www.codewars.com/kata/551dc350bf4e526099000ae5/solutions/javascript) : RegExp 
