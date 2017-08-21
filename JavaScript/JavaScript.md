@@ -32,7 +32,7 @@
 * [CodeWars](https://www.codewars.com/kata/split-strings/train/javascript) - [Split strings](6kyu/SplitStrings.js) : плохое решения, надо было через RegExp .match/../ - два любых значения, если не будет второго значения не чего не вернёт.
 * [CodeWars](https://www.codewars.com/kata/sum-consecutives/train/javascript) - [Sum consecutives](6kyu/SumConsecutives.js)
 * [CodeWars](https://www.codewars.com/kata/title-case/javascript) - [Title case](6kyu/TitleCase.js) : RegExp, интересная задачка, немного обманул систему не мог пройти 1 тест через регулярное выражения, очень интересные решения есть. 
-* [CodeWars](https://www.codewars.com/kata/55e2adece53b4cdcb900006c/solutions/javascript) - [Tortoise racing](7kyu/TortoiseRacing.js) : задачка со временем. *60 переводм в минуты, % - деления что бы отбросить остаток, иначе задача не решается, мешают побитовые вычисления 
+* [CodeWars](https://www.codewars.com/kata/tortoise-racing/javascript) - [Tortoise racing](6kyu/TortoiseRacing.js) : задачка со временем. *60 переводм в минуты, % - деления что бы отбросить остаток, иначе задача не решается, мешают побитовые вычисления 
 * [CodeWars](https://www.codewars.com/kata/vasya-clerk/train/javascript) - [Vasya - clerk](6kyu/Vasya-Clerk.js) switch - case = if - else
 * [CodeWars](https://www.codewars.com/kata/weird-string-case/train/javascript) - [WeIrD StRiNg CaSe](6kyu/WeIrDStRiNgCaSe.js) : в решениях присутсвует RegExp
 * [CodeWars](https://www.codewars.com/kata/550554fd08b86f84fe000a58) - [Which are in](6kyu/WhichAreIn.js) : RegExp в цикле
