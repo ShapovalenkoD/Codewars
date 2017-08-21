@@ -14,7 +14,7 @@
 * [CodeWars](https://www.codewars.com/kata/most-digits/train/javascript) - [Most digits](7kyu/MostDigits.js)
 * [CodeWars](https://www.codewars.com/kata/56541980fa08ab47a0000040) - [Printer errors](7kyu/PrinterErrors.js) : RegExp, в ответах используют шаблонные строки
 * [CodeWars](https://www.codewars.com/kata/sum-of-the-first-nth-term-of-series/train/javascript) - [Sum of the first nth term of series](7kyu/SumOfTheFirstNthTermOfSeries.js)
-* [CodeWars](https://www.codewars.com/kata/two-to-one/train/javascript) - [Two to One](7kyu/TwoToOne.js) - в решениях испольузют деструктуризацию массива и new Set (позволяет сохранять уникальные значения любого типа, как примитивы, так и другие типы объектов)
+* [CodeWars](https://www.codewars.com/kata/two-to-one/train/javascript) - [Two to One](7kyu/TwoToOne.js) : в решениях испольузют деструктуризацию массива и new Set (позволяет сохранять уникальные значения любого типа, как примитивы, так и другие типы объектов)
 
 ### <a name="6kyu">6 kyu</a>
 * [CodeWars](https://www.codewars.com/kata/bouncing-balls/train/javascript) - [Bouncing balls](6kyu/BouncingBalls.js) : логарифмы
@@ -33,7 +33,7 @@
 * [CodeWars](https://www.codewars.com/kata/sum-consecutives/train/javascript) - [Sum consecutives](6kyu/SumConsecutives.js)
 * [CodeWars](https://www.codewars.com/kata/title-case/javascript) - [Title case](6kyu/TitleCase.js) : RegExp, интересная задачка, немного обманул систему не мог пройти 1 тест через регулярное выражения, очень интересные решения есть. 
 * [CodeWars](https://www.codewars.com/kata/tortoise-racing/javascript) - [Tortoise racing](6kyu/TortoiseRacing.js) : задачка со временем. *60 переводм в минуты, % - деления что бы отбросить остаток, иначе задача не решается, мешают побитовые вычисления 
-* [CodeWars](https://www.codewars.com/kata/vasya-clerk/train/javascript) - [Vasya - clerk](6kyu/Vasya-Clerk.js) switch - case = if - else
+* [CodeWars](https://www.codewars.com/kata/vasya-clerk/train/javascript) - [Vasya - clerk](6kyu/Vasya-Clerk.js) : switch - case = if - else
 * [CodeWars](https://www.codewars.com/kata/weird-string-case/train/javascript) - [WeIrD StRiNg CaSe](6kyu/WeIrDStRiNgCaSe.js) : в решениях присутсвует RegExp
 * [CodeWars](https://www.codewars.com/kata/550554fd08b86f84fe000a58) - [Which are in](6kyu/WhichAreIn.js) : RegExp в цикле
 * [CodeWars](https://www.codewars.com/kata/weird-string-case/train/javascript) - [Who likes it](6kyu/WhoLikesIt.js) : switch - case
