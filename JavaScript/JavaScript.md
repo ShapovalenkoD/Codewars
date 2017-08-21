@@ -42,5 +42,5 @@
 * [CodeWars]() - [](6kyu/.js)
 
 ### <a name="5kyu">5 kyu</a>
-* [flatten()](5kyu/flatten().js) - [CodeWars](https://www.codewars.com/kata/513fa1d75e4297ba38000003)
-* [](6kyu/.js) - [CodeWars]()
+* [CodeWars](https://www.codewars.com/kata/513fa1d75e4297ba38000003) - [flatten()](5kyu/flatten().js
+* [CodeWars]() - [](5kyu/.js)
