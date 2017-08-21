@@ -17,7 +17,7 @@
 * [CodeWars](https://www.codewars.com/kata/two-to-one/train/javascript) - [Two to One](7kyu/TwoToOne.js) - в решениях испольузют деструктуризацию массива и new Set (позволяет сохранять уникальные значения любого типа, как примитивы, так и другие типы объектов)
 
 ### <a name="6kyu">6 kyu</a>
-* [CodeWars](https://www.codewars.com/kata/bouncing-balls/train/javascript) - [Bouncing balls](6kyu/BouncingBalls.js) : логорифмы
+* [CodeWars](https://www.codewars.com/kata/bouncing-balls/train/javascript) - [Bouncing balls](6kyu/BouncingBalls.js) : логарифмы
 * [CodeWars](https://www.codewars.com/kata/build-tower/train/javascript) - [Build tower](6kyu/BuildTower.js) : RegExp, метод .repeat (для дублирования строк) плохое решения, код можно упростить.
 * [CodeWars](https://www.codewars.com/kata/decode-the-morse-code/train/javascript) - [Decode the morse code](6kyu/DecodeTheMorseCode.js) 
 * [CodeWars](https://www.codewars.com/kata/find-the-odd-int/train/javascript) - [Find the odd int](6kyu/FindTheOddInt.js) : используется побитовое сравнения - ^ 
@@ -28,7 +28,7 @@
 * [CodeWars](https://www.codewars.com/kata/is-a-number-prime/train/javascript) - [Is a number prime](6kyu/IsANumberPrime.js) : нахождения простого числа, мое решения находит все простые числа до n, забавное решения в ответах было :))
 * [CodeWars](https://www.codewars.com/kata/longest-palindrome/javascript) - [longest palindrome](6kyu/longestPalindrome.js) : Палиндром, топ решения намного лучше, там сокращается массив
 * [CodeWars](https://www.codewars.com/kata/multiples-of-3-and-5/train/javascript) - [Multiples of 3 and 5](6kyu/MultiplesOf3And5.js)
-* [CodeWars](https://www.codewars.com/kata/simple-encryption-number-1-alternating-split/train/javascript) - [Simple encryption #1 - alternating split](6kyu/FormatAStringOfMamesLike'Bart%2CLisa%26Maggie'.) : две задачки в одной, ~~ побитовое приведения к меньшему числу = Math.floor(), интересные решения 
+* [CodeWars](https://www.codewars.com/kata/simple-encryption-number-1-alternating-split/train/javascript) - [Simple encryption #1 - alternating split](6kyu/FormatAStringOfMamesLike'Bart%2CLisa%26Maggie'.js) : две задачки в одной, ~~ побитовое приведения к меньшему числу = Math.floor(), интересные решения 
 * [CodeWars](https://www.codewars.com/kata/split-strings/train/javascript) - [Split strings](6kyu/SplitStrings.js) : плохое решения, надо было через RegExp .match/../ - два любых значения, если не будет второго значения не чего не вернёт.
 * [CodeWars](https://www.codewars.com/kata/sum-consecutives/train/javascript) - [Sum consecutives](6kyu/SumConsecutives.js)
 * [CodeWars](https://www.codewars.com/kata/title-case/javascript) - [Title case](6kyu/TitleCase.js) : RegExp, интересная задачка, немного обманул систему не мог пройти 1 тест через регулярное выражения, очень интересные решения есть. 
