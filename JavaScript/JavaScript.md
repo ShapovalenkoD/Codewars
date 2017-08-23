@@ -41,4 +41,7 @@
 
 ### <a name="5kyu">5 kyu</a>
 * [CodeWars](https://www.codewars.com/kata/513fa1d75e4297ba38000003) - [flatten()](5kyu/flatten().js)
+* [CodeWars](https://www.codewars.com/kata/primes-in-numbers/train/javascript) - [Primes in numbers](5kyu/PrimesInNumbers.js) - решаю
+* [CodeWars]() - [Template](5kyu/.Template.js)
+* [CodeWars]() - [Template](5kyu/.Template.js)
 * [CodeWars]() - [Template](5kyu/.Template.js)
