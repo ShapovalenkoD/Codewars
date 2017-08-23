@@ -1,6 +1,6 @@
 # Javascript
 
-[8 kyu](#8kyu) | [7 kyu](#7kyu) | [6 kyu](#6kyu) | [5 kyu](#5kyu) |
+[8 kyu](#8kyu) | [7 kyu](#7kyu) | [6 kyu](#6kyu) | [5 kyu](#5kyu)
 
 
 ### <a name="8kyu">8 kyu</a>
