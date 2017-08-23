@@ -21,7 +21,6 @@ function primeFactors(n){
     }
     return res
 }
-
 // Top solution
 
 
