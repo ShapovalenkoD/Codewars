@@ -1,9 +1,10 @@
 # Javascript
 
-[8 kyu](#8kyu) | [7 kyu](#7kyu) | [6 kyu](#6kyu) | [5 kyu](#5kyu) |
+[8 kyu](#8kyu) | [7 kyu](#7kyu) | [6 kyu](#6kyu) | [5 kyu](#5kyu)
 
 
 ### <a name="8kyu">8 kyu</a>
+* [CodeWars](https://www.codewars.com/kata/regular-ball-super-ball/javascript) - [Regular Ball Super Ball](8kyu/RegularBallSuperBall.js)
 
 ### <a name="7kyu">7 kyu</a>
 * [CodeWars](https://www.codewars.com/kata/categorize-new-member/train/javascript) - [Categorize new member](7kyu/CategorizeNewMember.js)
@@ -37,7 +38,10 @@
 * [CodeWars](https://www.codewars.com/kata/weird-string-case/train/javascript) - [WeIrD StRiNg CaSe](6kyu/WeIrDStRiNgCaSe.js) : в решениях присутсвует RegExp
 * [CodeWars](https://www.codewars.com/kata/550554fd08b86f84fe000a58) - [Which are in](6kyu/WhichAreIn.js) : RegExp в цикле
 * [CodeWars](https://www.codewars.com/kata/weird-string-case/train/javascript) - [Who likes it](6kyu/WhoLikesIt.js) : switch - case
-* [CodeWars]() - [Template](6kyu/Template.js)
 
 ### <a name="5kyu">5 kyu</a>
 * [CodeWars](https://www.codewars.com/kata/513fa1d75e4297ba38000003) - [flatten()](5kyu/flatten().js)
+* [CodeWars](https://www.codewars.com/kata/primes-in-numbers/train/javascript) - [Primes in numbers](5kyu/PrimesInNumbers.js) - решаю
+* [CodeWars]() - [Template](5kyu/.Template.js)
+* [CodeWars]() - [Template](5kyu/.Template.js)
+* [CodeWars]() - [Template](5kyu/.Template.js)
