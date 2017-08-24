@@ -44,4 +44,5 @@
 * [CodeWars](https://www.codewars.com/kata/primes-in-numbers/train/javascript) - [Primes in numbers](5kyu/PrimesInNumbers.js) - цикл while в топ решении 
 * [CodeWars](https://www.codewars.com/kata/moving-zeros-to-the-end/train/javascript) - [Moving Zeros To The End](5kyu/MovingZerosToTheEnd.js) - while, проще через два filter() как в топ решении
 * [CodeWars](https://www.codewars.com/kata/calculating-with-functions/train/javascript) - [Calculating with Functions](5kyu/CalculatingWithFunctions.js) - функциональный калькулятор, интересная ката
+* [CodeWars](https://www.codewars.com/kata/break-camelcase/train/javascript) - [Break camelCase](5kyu/BreakCamelCase.js) - RegExp, $ - специальный шаблон замены
 * [CodeWars]() - [Template](5kyu/.Template.js)
