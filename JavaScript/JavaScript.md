@@ -47,5 +47,5 @@
 * [CodeWars](https://www.codewars.com/kata/break-camelcase/train/javascript) - [Break camelCase](5kyu/BreakCamelCase.js) - RegExp; $ - спец символ в специальном шаблоне замены в .replace()
 * [CodeWars](https://www.codewars.com/kata/regex-password-validation/train/javascript) - [Regex Password Validation](5kyu/RegexPasswordValidation.js) - RegExp; ^ $ начало, конец строки, вместе задают промежуток (от и до); .* - любой символ (0 или более раз);(?= ) - шаблон просмотра вперёд; {6,} - 6 и более повторений
 * [CodeWars](https://www.codewars.com/kata/convert-string-to-camel-case/train/javascript) - [Convert string to camel case](5kyu/ConvertStringToCamelCase.js) - RegExp; toUpperCase
-* [CodeWars](https://www.codewars.com/kata/string-incrementer/train/javascript) - [String incrementer](5kyu/StringIncrementer.js)
+* [CodeWars](https://www.codewars.com/kata/string-incrementer/train/javascript) - [String incrementer](5kyu/StringIncrementer.js) - RegExp; прикольная ката с ведущими нулями (009 + 001 = 010 должно выводить)  
 * [CodeWars]() - [Template](5kyu/.Template.js)
