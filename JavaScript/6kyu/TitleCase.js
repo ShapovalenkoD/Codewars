@@ -1,4 +1,4 @@
-// My solution
+// My solution 1
 function titleCase(title, minorWords) {
   const qqq = title.toLowerCase().replace(/\b(.)/g, s => s.toUpperCase())
   if (minorWords == "an often into") {
@@ -10,6 +10,14 @@ function titleCase(title, minorWords) {
   } else {
    return qqq
   }
+}
+
+// My solution 2
+function titleCase(title, minorWords) {
+  const reg = minorWords !== undefined ? new RegExp(minorWords.split(' ').join('|'), 'gi') : ''
+  return title.toLowerCase().replace(/\b./g, x => x.toUpperCase())
+                            .replace(reg, x => x.toLowerCase())
+                            .replace(/\b./, x => x.toUpperCase())
 }
 
 // I think this top and clever solution
