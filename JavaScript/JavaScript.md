@@ -42,7 +42,8 @@
 ### <a name="5kyu">5 kyu</a>
 * [CodeWars](https://www.codewars.com/kata/513fa1d75e4297ba38000003) - [flatten()](5kyu/flatten().js)
 * [CodeWars](https://www.codewars.com/kata/primes-in-numbers/train/javascript) - [Primes in numbers](5kyu/PrimesInNumbers.js) - цикл while в топ решении 
-* [CodeWars](https://www.codewars.com/kata/moving-zeros-to-the-end/train/javascript) - [Moving Zeros To The End](5kyu/MovingZerosToTheEnd.js) - while, проще через два filter() как в топ решении
+* [CodeWars](https://www.codewars.com/kata/moving-zeros-to-the-end/train/javascript) - [Moving Zeros To The End](5kyu/MovingZerosToTheEnd.js) - while; проще через два filter() как в топ решении
 * [CodeWars](https://www.codewars.com/kata/calculating-with-functions/train/javascript) - [Calculating with Functions](5kyu/CalculatingWithFunctions.js) - функциональный калькулятор, интересная ката
-* [CodeWars](https://www.codewars.com/kata/break-camelcase/train/javascript) - [Break camelCase](5kyu/BreakCamelCase.js) - RegExp, $ - специальный шаблон замены
+* [CodeWars](https://www.codewars.com/kata/break-camelcase/train/javascript) - [Break camelCase](5kyu/BreakCamelCase.js) - RegExp; $ - спец символ в специальном шаблоне замены в .replace()
+* [CodeWars](https://www.codewars.com/kata/regex-password-validation/train/javascript) - [Regex Password Validation](5kyu/RegexPasswordValidation.js) - RegExp; ^ $ начало, конец строки, вместе задают промежуток (от и до); .* - любой символ (0 или более раз);(?= ) - шаблон просмотра вперёд; {6,} - 6 и более повторений
 * [CodeWars]() - [Template](5kyu/.Template.js)
