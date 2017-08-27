@@ -13,7 +13,9 @@
 * [CodeWars](https://www.codewars.com/kata/convert-string-to-camel-case/train/javascript) - [Convert string to camel case](5kyu/ConvertStringToCamelCase.js) - RegExp; toUpperCase
 * [CodeWars](https://www.codewars.com/kata/string-incrementer/train/javascript) - [String incrementer](5kyu/StringIncrementer.js) - RegExp; прикольная ката с ведущими нулями (009 + 001 = 010 должно выводить)  
 * [CodeWars](https://www.codewars.com/kata/extract-the-domain-name-from-a-url-1/train/javascript) - [Extract the domain name from a URL](5kyu/ExtractTheDomainNameFromAURL.js) - RegExp; короткое имя сайта; вышло только через два метода
-
+* [CodeWars](https://www.codewars.com/kata/rot13/train/javascript) - [ROT13](5kyu/ROT13.js) - шифрование строки; fromCodePoint() - возвращает строку из значений, codePointAt() - преобразуют строку в значения
+* [CodeWars]() - [Template](5kyu/.Template.js)
+* [CodeWars]() - [Template](5kyu/.Template.js)
 
 ### <a name="6kyu">6 kyu</a>
 * [CodeWars](https://www.codewars.com/kata/bouncing-balls/train/javascript) - [Bouncing balls](6kyu/BouncingBalls.js) : логарифмы
