@@ -3,19 +3,17 @@
 [8 kyu](#8kyu) | [7 kyu](#7kyu) | [6 kyu](#6kyu) | [5 kyu](#5kyu)
 
 
-### <a name="8kyu">8 kyu</a>
-* [CodeWars](https://www.codewars.com/kata/regular-ball-super-ball/javascript) - [Regular Ball Super Ball](8kyu/RegularBallSuperBall.js)
+### <a name="5kyu">5 kyu</a>
+* [CodeWars](https://www.codewars.com/kata/513fa1d75e4297ba38000003) - [flatten()](5kyu/flatten().js)
+* [CodeWars](https://www.codewars.com/kata/primes-in-numbers/train/javascript) - [Primes in numbers](5kyu/PrimesInNumbers.js) - цикл while в топ решении 
+* [CodeWars](https://www.codewars.com/kata/moving-zeros-to-the-end/train/javascript) - [Moving Zeros To The End](5kyu/MovingZerosToTheEnd.js) - while; проще через два filter() как в топ решении
+* [CodeWars](https://www.codewars.com/kata/calculating-with-functions/train/javascript) - [Calculating with Functions](5kyu/CalculatingWithFunctions.js) - функциональный калькулятор, интересная ката
+* [CodeWars](https://www.codewars.com/kata/break-camelcase/train/javascript) - [Break camelCase](5kyu/BreakCamelCase.js) - RegExp; $ - спец символ в специальном шаблоне замены в .replace()
+* [CodeWars](https://www.codewars.com/kata/regex-password-validation/train/javascript) - [Regex Password Validation](5kyu/RegexPasswordValidation.js) - RegExp; ^ $ начало, конец строки, вместе задают промежуток (от и до); .* - любой символ (0 или более раз);(?= ) - шаблон просмотра вперёд; {6,} - 6 и более повторений
+* [CodeWars](https://www.codewars.com/kata/convert-string-to-camel-case/train/javascript) - [Convert string to camel case](5kyu/ConvertStringToCamelCase.js) - RegExp; toUpperCase
+* [CodeWars](https://www.codewars.com/kata/string-incrementer/train/javascript) - [String incrementer](5kyu/StringIncrementer.js) - RegExp; прикольная ката с ведущими нулями (009 + 001 = 010 должно выводить)  
+* [CodeWars](https://www.codewars.com/kata/extract-the-domain-name-from-a-url-1/train/javascript) - [Extract the domain name from a URL](5kyu/ExtractTheDomainNameFromAURL.js) - RegExp; короткое имя сайта; вышло только через два метода
 
-### <a name="7kyu">7 kyu</a>
-* [CodeWars](https://www.codewars.com/kata/categorize-new-member/train/javascript) - [Categorize new member](7kyu/CategorizeNewMember.js)
-* [CodeWars](https://www.codewars.com/kata/5412509bd436bd33920011bc) - [Credit card mask](7kyu/CreditCardMask.js) : RegExp
-* [CodeWars](https://www.codewars.com/kata/5813d19765d81c592200001a) - [Dont give me number](7kyu/DontGiveMeNumber.js)
-* [CodeWars](https://www.codewars.com/kata/get-the-middle-character/train/javascript) - [Get the middle character](7kyu/GetTheMiddleCharacter.js)
-* [CodeWars](https://www.codewars.com/kata/growth-of-a-population/train/javascript) - [Growth of a Population](7kyu/GrowthOfAPopulation.js)
-* [CodeWars](https://www.codewars.com/kata/most-digits/train/javascript) - [Most digits](7kyu/MostDigits.js)
-* [CodeWars](https://www.codewars.com/kata/56541980fa08ab47a0000040) - [Printer errors](7kyu/PrinterErrors.js) : RegExp, в ответах используют шаблонные строки
-* [CodeWars](https://www.codewars.com/kata/sum-of-the-first-nth-term-of-series/train/javascript) - [Sum of the first nth term of series](7kyu/SumOfTheFirstNthTermOfSeries.js)
-* [CodeWars](https://www.codewars.com/kata/two-to-one/train/javascript) - [Two to One](7kyu/TwoToOne.js) : в решениях испольузют деструктуризацию массива и new Set (позволяет сохранять уникальные значения любого типа, как примитивы, так и другие типы объектов)
 
 ### <a name="6kyu">6 kyu</a>
 * [CodeWars](https://www.codewars.com/kata/bouncing-balls/train/javascript) - [Bouncing balls](6kyu/BouncingBalls.js) : логарифмы
@@ -39,13 +37,18 @@
 * [CodeWars](https://www.codewars.com/kata/550554fd08b86f84fe000a58) - [Which are in](6kyu/WhichAreIn.js) : RegExp в цикле
 * [CodeWars](https://www.codewars.com/kata/weird-string-case/train/javascript) - [Who likes it](6kyu/WhoLikesIt.js) : switch - case
 
-### <a name="5kyu">5 kyu</a>
-* [CodeWars](https://www.codewars.com/kata/513fa1d75e4297ba38000003) - [flatten()](5kyu/flatten().js)
-* [CodeWars](https://www.codewars.com/kata/primes-in-numbers/train/javascript) - [Primes in numbers](5kyu/PrimesInNumbers.js) - цикл while в топ решении 
-* [CodeWars](https://www.codewars.com/kata/moving-zeros-to-the-end/train/javascript) - [Moving Zeros To The End](5kyu/MovingZerosToTheEnd.js) - while; проще через два filter() как в топ решении
-* [CodeWars](https://www.codewars.com/kata/calculating-with-functions/train/javascript) - [Calculating with Functions](5kyu/CalculatingWithFunctions.js) - функциональный калькулятор, интересная ката
-* [CodeWars](https://www.codewars.com/kata/break-camelcase/train/javascript) - [Break camelCase](5kyu/BreakCamelCase.js) - RegExp; $ - спец символ в специальном шаблоне замены в .replace()
-* [CodeWars](https://www.codewars.com/kata/regex-password-validation/train/javascript) - [Regex Password Validation](5kyu/RegexPasswordValidation.js) - RegExp; ^ $ начало, конец строки, вместе задают промежуток (от и до); .* - любой символ (0 или более раз);(?= ) - шаблон просмотра вперёд; {6,} - 6 и более повторений
-* [CodeWars](https://www.codewars.com/kata/convert-string-to-camel-case/train/javascript) - [Convert string to camel case](5kyu/ConvertStringToCamelCase.js) - RegExp; toUpperCase
-* [CodeWars](https://www.codewars.com/kata/string-incrementer/train/javascript) - [String incrementer](5kyu/StringIncrementer.js) - RegExp; прикольная ката с ведущими нулями (009 + 001 = 010 должно выводить)  
-* [CodeWars]() - [Template](5kyu/.Template.js)
+
+### <a name="7kyu">7 kyu</a>
+* [CodeWars](https://www.codewars.com/kata/categorize-new-member/train/javascript) - [Categorize new member](7kyu/CategorizeNewMember.js)
+* [CodeWars](https://www.codewars.com/kata/5412509bd436bd33920011bc) - [Credit card mask](7kyu/CreditCardMask.js) : RegExp
+* [CodeWars](https://www.codewars.com/kata/5813d19765d81c592200001a) - [Dont give me number](7kyu/DontGiveMeNumber.js)
+* [CodeWars](https://www.codewars.com/kata/get-the-middle-character/train/javascript) - [Get the middle character](7kyu/GetTheMiddleCharacter.js)
+* [CodeWars](https://www.codewars.com/kata/growth-of-a-population/train/javascript) - [Growth of a Population](7kyu/GrowthOfAPopulation.js)
+* [CodeWars](https://www.codewars.com/kata/most-digits/train/javascript) - [Most digits](7kyu/MostDigits.js)
+* [CodeWars](https://www.codewars.com/kata/56541980fa08ab47a0000040) - [Printer errors](7kyu/PrinterErrors.js) : RegExp, в ответах используют шаблонные строки
+* [CodeWars](https://www.codewars.com/kata/sum-of-the-first-nth-term-of-series/train/javascript) - [Sum of the first nth term of series](7kyu/SumOfTheFirstNthTermOfSeries.js)
+* [CodeWars](https://www.codewars.com/kata/two-to-one/train/javascript) - [Two to One](7kyu/TwoToOne.js) : в решениях испольузют деструктуризацию массива и new Set (позволяет сохранять уникальные значения любого типа, как примитивы, так и другие типы объектов)
+
+
+### <a name="8kyu">8 kyu</a>
+* [CodeWars](https://www.codewars.com/kata/regular-ball-super-ball/javascript) - [Regular Ball Super Ball](8kyu/RegularBallSuperBall.js)
