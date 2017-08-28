@@ -16,6 +16,9 @@
 * [CodeWars](https://www.codewars.com/kata/rot13/train/javascript) - [ROT13](5kyu/ROT13.js) - шифрование строки; fromCodePoint() - возвращает строку из значений, codePointAt() - преобразуют строку в значения
 * [CodeWars](https://www.codewars.com/kata/not-very-secure/train/javascript) - [Not very secure](5kyu/NotVerySecure.js) - RegExp: решил через 2 метода проблемы с пробелами возникли, решалось включениям всей строки  в промежуток ^  и $  
 * [CodeWars](https://www.codewars.com/kata/word-finder/train/javascript) - [Word Finder](5kyu/WordFinder.js) - RegExp:  .concat() - возможно использовать со строками вместо + , с решением перемудрил, нужно было .filtr использовать, интересная ката, так же замыкания использовались this; в топ решении спользовался bind() -  создаёт новую функцию, которая при вызове устанавливает в качестве контекста выполнения this предоставленное значение
+* [CodeWars](https://www.codewars.com/kata/return-substring-instance-count-2/train/javascript) - [Return substring instance count - 2](5kyu/ReturnSubstringInstanceCount-2.js) - RegExp
+* [CodeWars]() - [Template](5kyu/.Template.js)
+* [CodeWars]() - [Template](5kyu/.Template.js)
 * [CodeWars]() - [Template](5kyu/.Template.js)
 
 ### <a name="6kyu">6 kyu</a>
