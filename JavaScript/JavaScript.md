@@ -18,7 +18,7 @@
 * [CodeWars](https://www.codewars.com/kata/word-finder/train/javascript) - [Word Finder](5kyu/WordFinder.js) - RegExp:  .concat() - возможно использовать со строками вместо + , с решением перемудрил, нужно было .filtr использовать, интересная ката, так же замыкания использовались this; в топ решении спользовался bind() -  создаёт новую функцию, которая при вызове устанавливает в качестве контекста выполнения this предоставленное значение
 * [CodeWars](https://www.codewars.com/kata/return-substring-instance-count-2/train/javascript) - [Return substring instance count - 2](5kyu/ReturnSubstringInstanceCount-2.js) - RegExp
 * [CodeWars](https://www.codewars.com/kata/validdate-regex/train/javascript) - [validDate Regex](5kyu/validDateRegex.js) - RegExp: валидация даты, без учёта 29 фервраля
-* [CodeWars](https://www.codewars.com/kata/number-hashtag/train/javascript) - [#Hashtag](5kyu/#Hashtag.js) - RegExp: поиск слов по хаштэгу,и убираем хаштэг; (?:\B#+) - начинает отсчёт от не границы слоы за нужным нам символом в данном случае за # 
+* [CodeWars](https://www.codewars.com/kata/number-hashtag/train/javascript) - [#Hashtag](5kyu/%23Hashtag.js) - RegExp: поиск слов по хаштэгу,и убираем хаштэг; (?:\B#+) - начинает отсчёт от не границы слоы за нужным нам символом в данном случае за # 
 * [CodeWars]() - [Template](5kyu/.Template.js)
 
 ### <a name="6kyu">6 kyu</a>
