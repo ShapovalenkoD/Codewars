@@ -18,7 +18,7 @@
 * [CodeWars](https://www.codewars.com/kata/word-finder/train/javascript) - [Word Finder](5kyu/WordFinder.js) - RegExp:  .concat() - возможно использовать со строками вместо + , с решением перемудрил, нужно было .filtr использовать, интересная ката, так же замыкания использовались this; в топ решении спользовался bind() -  создаёт новую функцию, которая при вызове устанавливает в качестве контекста выполнения this предоставленное значение
 * [CodeWars](https://www.codewars.com/kata/return-substring-instance-count-2/train/javascript) - [Return substring instance count - 2](5kyu/ReturnSubstringInstanceCount-2.js) - RegExp
 * [CodeWars](https://www.codewars.com/kata/validdate-regex/train/javascript) - [validDate Regex](5kyu/validDateRegex.js) - RegExp: валидация даты, без учёта 29 фервраля
-* [CodeWars]() - [Template](5kyu/.Template.js)
+* [CodeWars](https://www.codewars.com/kata/number-hashtag/train/javascript) - [#Hashtag](5kyu/#Hashtag.js) - RegExp: поиск слов по хаштэгу,и убираем хаштэг; (?:\B#+) - начинает отсчёт от не границы слоы за нужным нам символом в данном случае за # 
 * [CodeWars]() - [Template](5kyu/.Template.js)
 
 ### <a name="6kyu">6 kyu</a>
@@ -42,6 +42,9 @@
 * [CodeWars](https://www.codewars.com/kata/weird-string-case/train/javascript) - [WeIrD StRiNg CaSe](6kyu/WeIrDStRiNgCaSe.js) : в решениях присутсвует RegExp
 * [CodeWars](https://www.codewars.com/kata/550554fd08b86f84fe000a58) - [Which are in](6kyu/WhichAreIn.js) : RegExp в цикле
 * [CodeWars](https://www.codewars.com/kata/weird-string-case/train/javascript) - [Who likes it](6kyu/WhoLikesIt.js) : switch - case
+* [CodeWars](https://www.codewars.com/kata/stop-gninnips-my-sdrow/train/javascript) - [Stop gninnipS My sdroW!](6kyu/StopGninnipSMySdroW!.js)
+* [CodeWars](https://www.codewars.com/kata/sum-of-digits-slash-digital-root/train/javascript) - [Sum of Digits / Digital Root](6kyu/SumOfDigitsDigitalRoot.js) : рекурсия
+* [CodeWars](https://www.codewars.com/kata/bit-counting/train/javascript) - [Bit Counting](6kyu/BitCounting.js)
 
 
 ### <a name="7kyu">7 kyu</a>
