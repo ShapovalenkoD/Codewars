@@ -1,7 +1,11 @@
 # Javascript
 
-[8 kyu](#8kyu) | [7 kyu](#7kyu) | [6 kyu](#6kyu) | [5 kyu](#5kyu)
+[8 kyu](#8kyu) | [7 kyu](#7kyu) | [6 kyu](#6kyu) | [5 kyu](#5kyu) | [4 kyu](#4kyu)
 
+
+### <a name="4kyu">4 kyu</a>
+* [CodeWars](https://www.codewars.com/kata/valid-braces/train/javascript) - [Valid Braces](4kyu/ValidBraces.js) - задача про скобки () {} [], практически аналогичная с задачей 5 сложности, но тут более интересные cleave solution ([CodeWars](https://www.codewars.com/kata/valid-parentheses/train/javascript) - [Valid Parentheses 5kyu](5kyu/ValidParentheses.js))
+* [CodeWars]() - [Template](4kyu/.Template.js)
 
 ### <a name="5kyu">5 kyu</a>
 * [CodeWars](https://www.codewars.com/kata/513fa1d75e4297ba38000003) - [flatten()](5kyu/flatten().js)
@@ -22,7 +26,6 @@
 * [CodeWars](https://www.codewars.com/kata/simple-pig-latin/train/javascript) - [Simple Pig Latin](5kyu/SimplePigLatin.js) - cleave solution RegExp с шаблонами () $ интересное решения. метод slice и splice
 * [CodeWars](https://www.codewars.com/kata/valid-parentheses/train/javascript) - [Valid Parentheses](5kyu/ValidParentheses.js)- интересная задачка про скобки () 
 * [CodeWars](https://www.codewars.com/kata/palindrome-chain-length) - [Palindrome chain length](5kyu/PalindromeChainLength.js) - рекурсия со счётчиком, parseInt - строку в число, toString - в строку
-* [CodeWars]() - [Template](5kyu/.Template.js)
 
 ### <a name="6kyu">6 kyu</a>
 * [CodeWars](https://www.codewars.com/kata/bouncing-balls/train/javascript) - [Bouncing balls](6kyu/BouncingBalls.js) : логарифмы
