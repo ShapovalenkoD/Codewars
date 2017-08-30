@@ -19,6 +19,9 @@
 * [CodeWars](https://www.codewars.com/kata/return-substring-instance-count-2/train/javascript) - [Return substring instance count - 2](5kyu/ReturnSubstringInstanceCount-2.js) - RegExp
 * [CodeWars](https://www.codewars.com/kata/validdate-regex/train/javascript) - [validDate Regex](5kyu/validDateRegex.js) - RegExp: валидация даты, без учёта 29 фервраля
 * [CodeWars](https://www.codewars.com/kata/number-hashtag/train/javascript) - [#Hashtag](5kyu/%23Hashtag.js) - RegExp: поиск слов по хаштэгу,и убираем хаштэг; (?:\B#+) - начинает отсчёт от не границы слоы за нужным нам символом в данном случае за # 
+* [CodeWars](https://www.codewars.com/kata/simple-pig-latin/train/javascript) - [Simple Pig Latin](5kyu/SimplePigLatin.js) - cleave solution RegExp с шаблонами () $ интересное решения. метод slice и splice
+* [CodeWars]() - [Template](5kyu/.Template.js)
+* [CodeWars]() - [Template](5kyu/.Template.js)
 * [CodeWars]() - [Template](5kyu/.Template.js)
 
 ### <a name="6kyu">6 kyu</a>
