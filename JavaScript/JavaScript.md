@@ -52,6 +52,7 @@
 * [CodeWars](https://www.codewars.com/kata/stop-gninnips-my-sdrow/train/javascript) - [Stop gninnipS My sdroW!](6kyu/StopGninnipSMySdroW!.js)
 * [CodeWars](https://www.codewars.com/kata/sum-of-digits-slash-digital-root/train/javascript) - [Sum of Digits / Digital Root](6kyu/SumOfDigitsDigitalRoot.js) : рекурсия
 * [CodeWars](https://www.codewars.com/kata/bit-counting/train/javascript) - [Bit Counting](6kyu/BitCounting.js)
+* [CodeWars](https://www.codewars.com/kata/format-words-into-a-sentence/train/javascript) - [Format words into a sentence](6kyu/FormatWordsIntoASentence.js) - RegExp - (?=[^,]*$ - поиск запятой с конца, если заменить запятую, то будет поик другого символа
 
 
 ### <a name="7kyu">7 kyu</a>
