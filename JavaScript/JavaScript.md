@@ -6,6 +6,7 @@
 ### <a name="4kyu">4 kyu</a>
 * [CodeWars](https://www.codewars.com/kata/valid-braces/train/javascript) - [Valid Braces](4kyu/ValidBraces.js) - задача про скобки () {} [], практически аналогичная с задачей 5 сложности, но тут более интересные cleave solution ([CodeWars](https://www.codewars.com/kata/valid-parentheses/train/javascript) - [Valid Parentheses 5kyu](5kyu/ValidParentheses.js))
 * [CodeWars](https://www.codewars.com/kata/ip-validation/train/javascript) - [IP Validation](4kyu/IPValidation.js) - RegExp; валидация IP - тесты не очень написаны мое решения проходит с ... (тремя точками) update: изменил в решении с \d{0,2} на \d{1,2} валидация с точками больше не проходит, регулярка работает как должна, можно было обойти повторения 4-х раз таким методам (\.(?!$)|$)){4} как в top solution
+* [CodeWars](https://www.codewars.com/kata/strip-comments/train/javascript) - [StripComments](4kyu/StripComments.js) - RegExp; с маркерами
 * [CodeWars]() - [Template](4kyu/.Template.js)
 
 ### <a name="5kyu">5 kyu</a>
@@ -52,7 +53,7 @@
 * [CodeWars](https://www.codewars.com/kata/stop-gninnips-my-sdrow/train/javascript) - [Stop gninnipS My sdroW!](6kyu/StopGninnipSMySdroW!.js)
 * [CodeWars](https://www.codewars.com/kata/sum-of-digits-slash-digital-root/train/javascript) - [Sum of Digits / Digital Root](6kyu/SumOfDigitsDigitalRoot.js) : рекурсия
 * [CodeWars](https://www.codewars.com/kata/bit-counting/train/javascript) - [Bit Counting](6kyu/BitCounting.js)
-* [CodeWars](https://www.codewars.com/kata/format-words-into-a-sentence/train/javascript) - [Format words into a sentence](6kyu/FormatWordsIntoASentence.js) - RegExp - (?=[^,]*$ - поиск запятой с конца, если заменить запятую, то будет поик другого символа
+* [CodeWars](https://www.codewars.com/kata/format-words-into-a-sentence/train/javascript) - [Format words into a sentence](6kyu/FormatWordsIntoASentence.js) - RegExp - (?=[^,]*$) - поиск запятой с конца, если заменить запятую, то будет поиск другого символа
 
 
 ### <a name="7kyu">7 kyu</a>
