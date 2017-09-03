@@ -28,6 +28,7 @@
 * [CodeWars](https://www.codewars.com/kata/simple-pig-latin/train/javascript) - [Simple Pig Latin](5kyu/SimplePigLatin.js) - cleave solution RegExp с шаблонами () $ интересное решения. метод slice и splice
 * [CodeWars](https://www.codewars.com/kata/valid-parentheses/train/javascript) - [Valid Parentheses](5kyu/ValidParentheses.js)- интересная задачка про скобки () 
 * [CodeWars](https://www.codewars.com/kata/palindrome-chain-length) - [Palindrome chain length](5kyu/PalindromeChainLength.js) - рекурсия со счётчиком, parseInt - строку в число, toString - в строку
+* [CodeWars](https://www.codewars.com/kata/merged-string-checker/train/javascript) - [erged String Checker](5kyu/ErgedStringChecker.js) 
 
 ### <a name="6kyu">6 kyu</a>
 * [CodeWars](https://www.codewars.com/kata/bouncing-balls/train/javascript) - [Bouncing balls](6kyu/BouncingBalls.js) : логарифмы
@@ -54,7 +55,7 @@
 * [CodeWars](https://www.codewars.com/kata/sum-of-digits-slash-digital-root/train/javascript) - [Sum of Digits / Digital Root](6kyu/SumOfDigitsDigitalRoot.js) : рекурсия
 * [CodeWars](https://www.codewars.com/kata/bit-counting/train/javascript) - [Bit Counting](6kyu/BitCounting.js)
 * [CodeWars](https://www.codewars.com/kata/format-words-into-a-sentence/train/javascript) - [Format words into a sentence](6kyu/FormatWordsIntoASentence.js) - RegExp - (?=[^,]*$) - поиск запятой с конца, если заменить запятую, то будет поиск другого символа
-* [CodeWars](https://www.codewars.com/kata/find-the-parity-outlier/train/javascript) - [Find The Parity Outlier](6kyu/FindTheParityOutlierjs)
+* [CodeWars](https://www.codewars.com/kata/find-the-parity-outlier/train/javascript) - [Find The Parity Outlier](6kyu/FindTheParityOutlier.js)
 
 
 ### <a name="7kyu">7 kyu</a>
