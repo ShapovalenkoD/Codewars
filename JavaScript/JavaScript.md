@@ -68,6 +68,7 @@
 * [CodeWars](https://www.codewars.com/kata/56541980fa08ab47a0000040) - [Printer errors](7kyu/PrinterErrors.js) : RegExp, в ответах используют шаблонные строки
 * [CodeWars](https://www.codewars.com/kata/sum-of-the-first-nth-term-of-series/train/javascript) - [Sum of the first nth term of series](7kyu/SumOfTheFirstNthTermOfSeries.js)
 * [CodeWars](https://www.codewars.com/kata/two-to-one/train/javascript) - [Two to One](7kyu/TwoToOne.js) : в решениях испольузют деструктуризацию массива и new Set (позволяет сохранять уникальные значения любого типа, как примитивы, так и другие типы объектов)
+* [CodeWars](https://www.codewars.com/kata/javascript-class-like-objects/train/javascript) - [JavaScript class-like objects](7kyu/JavaScriptClass-likeObjects.js) - class; object
 
 
 ### <a name="8kyu">8 kyu</a>
