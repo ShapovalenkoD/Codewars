@@ -28,7 +28,6 @@
 * [CodeWars](https://www.codewars.com/kata/simple-pig-latin/train/javascript) - [Simple Pig Latin](5kyu/SimplePigLatin.js) - cleave solution RegExp с шаблонами () $ интересное решения. метод slice и splice
 * [CodeWars](https://www.codewars.com/kata/valid-parentheses/train/javascript) - [Valid Parentheses](5kyu/ValidParentheses.js)- интересная задачка про скобки () 
 * [CodeWars](https://www.codewars.com/kata/palindrome-chain-length) - [Palindrome chain length](5kyu/PalindromeChainLength.js) - рекурсия со счётчиком, parseInt - строку в число, toString - в строку
-* [CodeWars](https://www.codewars.com/kata/merged-string-checker/train/javascript) - [erged String Checker](5kyu/ErgedStringChecker.js) 
 * [CodeWars](https://www.codewars.com/kata/merged-string-checker/train/javascript) - [Merged String Checker](5kyu/MergedStringChecker.js) - не тривиальная, интересная задача, решал пару вечеров, решил через костыль, в решениях рекурсия, есть решение через RegExp к которому стремился (не вышло реализовать двойное экранирование символов) у него используется \w|\d можно просто оставить было \w - эквивалентно [A-Za-z0-9_] а \d - эквивалентно [0-9], такой способ как в RegExp позволяет найти все символы в заданном порядке.  При решение через RegExp, создаются регулярки в дополнительной функции.
 
 
