@@ -56,6 +56,7 @@
 * [CodeWars](https://www.codewars.com/kata/bit-counting/train/javascript) - [Bit Counting](6kyu/BitCounting.js)
 * [CodeWars](https://www.codewars.com/kata/format-words-into-a-sentence/train/javascript) - [Format words into a sentence](6kyu/FormatWordsIntoASentence.js) - RegExp - (?=[^,]*$) - поиск запятой с конца, если заменить запятую, то будет поиск другого символа
 * [CodeWars](https://www.codewars.com/kata/find-the-parity-outlier/train/javascript) - [Find The Parity Outlier](6kyu/FindTheParityOutlier.js)
+* [CodeWars](https://www.codewars.com/kata/take-a-ten-minute-walk/train/javascript) - [Take a Ten Minute Walk](6kyu/TakeaTenMinuteWalk.js) - забавная задачка, внимательнее условия надо читать, решения оригинальные.
 
 
 ### <a name="7kyu">7 kyu</a>
