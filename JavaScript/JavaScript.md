@@ -29,6 +29,8 @@
 * [CodeWars](https://www.codewars.com/kata/valid-parentheses/train/javascript) - [Valid Parentheses](5kyu/ValidParentheses.js)- интересная задачка про скобки () 
 * [CodeWars](https://www.codewars.com/kata/palindrome-chain-length) - [Palindrome chain length](5kyu/PalindromeChainLength.js) - рекурсия со счётчиком, parseInt - строку в число, toString - в строку
 * [CodeWars](https://www.codewars.com/kata/merged-string-checker/train/javascript) - [erged String Checker](5kyu/ErgedStringChecker.js) 
+* [CodeWars](https://www.codewars.com/kata/merged-string-checker/train/javascript) - [Merged String Checker](5kyu/MergedStringChecker.js) - не тривиальная, интересная задача, решал пару вечеров, решил через костыль, в решениях рекурсия, есть решение через RegExp к которому стремился (не вышло реализовать двойное экранирование символов) у него используется \w|\d можно просто оставить было \w - эквивалентно [A-Za-z0-9_] а \d - эквивалентно [0-9], такой способ как в RegExp позволяет найти все символы в заданном порядке.  При решение через RegExp, создаются регулярки в дополнительной функции.
+
 
 ### <a name="6kyu">6 kyu</a>
 * [CodeWars](https://www.codewars.com/kata/bouncing-balls/train/javascript) - [Bouncing balls](6kyu/BouncingBalls.js) : логарифмы
@@ -57,6 +59,7 @@
 * [CodeWars](https://www.codewars.com/kata/format-words-into-a-sentence/train/javascript) - [Format words into a sentence](6kyu/FormatWordsIntoASentence.js) - RegExp - (?=[^,]*$) - поиск запятой с конца, если заменить запятую, то будет поиск другого символа
 * [CodeWars](https://www.codewars.com/kata/find-the-parity-outlier/train/javascript) - [Find The Parity Outlier](6kyu/FindTheParityOutlier.js)
 * [CodeWars](https://www.codewars.com/kata/take-a-ten-minute-walk/train/javascript) - [Take a Ten Minute Walk](6kyu/TakeaTenMinuteWalk.js) - забавная задачка, внимательнее условия надо читать, решения оригинальные.
+* [CodeWars](https://www.codewars.com/kata/detect-pangram/train/javascript) - [Detect Pangram](6kyu/DetectPangram.js) - RegExp; проверка является ли предложения [панграммом](https://ru.wikipedia.org/wiki/%D0%9F%D0%B0%D0%BD%D0%B3%D1%80%D0%B0%D0%BC%D0%BC%D0%B0) - короткий текст, использующий все  буквы алфавита, по возможности не повторяя их.
 
 
 ### <a name="7kyu">7 kyu</a>
