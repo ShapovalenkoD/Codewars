@@ -7,7 +7,8 @@
 * [CodeWars](https://www.codewars.com/kata/valid-braces/train/javascript) - [Valid Braces](4kyu/ValidBraces.js) - задача про скобки () {} [], практически аналогичная с задачей 5 сложности, но тут более интересные cleave solution ([CodeWars](https://www.codewars.com/kata/valid-parentheses/train/javascript) - [Valid Parentheses 5kyu](5kyu/ValidParentheses.js))
 * [CodeWars](https://www.codewars.com/kata/ip-validation/train/javascript) - [IP Validation](4kyu/IPValidation.js) - RegExp; валидация IP - тесты не очень написаны мое решения проходит с ... (тремя точками) update: изменил в решении с \d{0,2} на \d{1,2} валидация с точками больше не проходит, регулярка работает как должна, можно было обойти повторения 4-х раз таким методам (\.(?!$)|$)){4} как в top solution
 * [CodeWars](https://www.codewars.com/kata/strip-comments/train/javascript) - [StripComments](4kyu/StripComments.js) - RegExp; с маркерами
-* [CodeWars]() - [Template](4kyu/.Template.js)
+* [CodeWars](https://www.codewars.com/kata/regular-expression-for-binary-numbers-divisible-by-5/train/javascript) - [Template](4kyu/.Template.js)
+* [CodeWars](https://www.codewars.com/kata/regular-expression-for-binary-numbers-divisible-by-5/train/javascript) - [Regular expression for binary numbers divisible by 5](4kyu/RegularExpressionForBinaryNumbersDivisibleBy5.js) - RegExp 
 
 ### <a name="5kyu">5 kyu</a>
 * [CodeWars](https://www.codewars.com/kata/513fa1d75e4297ba38000003) - [flatten()](5kyu/flatten().js)
