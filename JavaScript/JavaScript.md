@@ -62,6 +62,9 @@
 * [CodeWars](https://www.codewars.com/kata/take-a-ten-minute-walk/train/javascript) - [Take a Ten Minute Walk](6kyu/TakeaTenMinuteWalk.js) - забавная задачка, внимательнее условия надо читать, решения оригинальные.
 * [CodeWars](https://www.codewars.com/kata/detect-pangram/train/javascript) - [Detect Pangram](6kyu/DetectPangram.js) - RegExp; проверка является ли предложения [панграммом](https://ru.wikipedia.org/wiki/%D0%9F%D0%B0%D0%BD%D0%B3%D1%80%D0%B0%D0%BC%D0%BC%D0%B0) - короткий текст, использующий все  буквы алфавита, по возможности не повторяя их.
 * [CodeWars](https://www.codewars.com/kata/highest-scoring-word/train/javascript) - [Highest Scoring Word](6kyu/HighestScoringWord.js) - интересная задачка, добавил алфавит [a-z] в объект, можно было через charCodeAt минус 96 решить
+* [CodeWars](https://www.codewars.com/kata/replace-with-alphabet-position/train/javascript) - [Replace With Alphabet Position](6kyu/ReplaceWithAlphabetPosition.js) - charCodeAt
+* [CodeWars](https://www.codewars.com/kata/are-they-the-same/train/javascript) - [Are they the "same"?](6kyu/AreTheyThesame.js) - сравнение двух массивов, every() проверяет, удовлетворяют ли все элементы массива условию, заданному в передаваемой функции
+* [CodeWars]() - [Template](6kyu/.Template.js)
 
 ### <a name="7kyu">7 kyu</a>
 * [CodeWars](https://www.codewars.com/kata/categorize-new-member/train/javascript) - [Categorize new member](7kyu/CategorizeNewMember.js)
