@@ -84,3 +84,4 @@
 
 ### <a name="8kyu">8 kyu</a>
 * [CodeWars](https://www.codewars.com/kata/regular-ball-super-ball/javascript) - [Regular Ball Super Ball](8kyu/RegularBallSuperBall.js)
+* [CodeWars](https://www.codewars.com/kata/color-ghost/train/javascript) - [ColorGhost](8kyu/ColorGhost.js) - object, class { constructor } 
