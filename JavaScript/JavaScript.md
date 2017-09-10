@@ -33,6 +33,7 @@
 * [CodeWars](https://www.codewars.com/kata/merged-string-checker/train/javascript) - [Merged String Checker](5kyu/MergedStringChecker.js) - не тривиальная, интересная задача, решал пару вечеров, решил через костыль, в решениях рекурсия, есть решение через RegExp к которому стремился (не вышло реализовать двойное экранирование символов) у него используется \w|\d можно просто оставить было \w - эквивалентно [A-Za-z0-9_] а \d - эквивалентно [0-9], такой способ как в RegExp позволяет найти все символы в заданном порядке.  При решение через RegExp, создаются регулярки в дополнительной функции.
 * [CodeWars](https://www.codewars.com/kata/human-readable-time/train/javascript) - [Human Readable Time](5kyu/HumanReadableTime.js) - Задача про время, из секунд в формат (HH:MM:SS)
 * [CodeWars](https://www.codewars.com/kata/largest-5-digit-number-in-a-series/train/javascript) - [Largest 5 digit number in a series](5kyu/Largest5DigitNumberInASeries.js) - Найти максимальное пятисимвольное число из порядка цифр, топорное решения, перебирая все значения возможные, substr() возвращает указанное количество символов из строки, начиная с указанной позиции
+* [CodeWars](https://www.codewars.com/kata/multi-line-task-gcd-function/train/javascript) - [Multi Line Task: GCD Function](5kyu/MultiLineTaskGCDFunction.js) - GCD - [Наибольший общий делитель](https://ru.wikipedia.org/wiki/%D0%9D%D0%B0%D0%B8%D0%B1%D0%BE%D0%BB%D1%8C%D1%88%D0%B8%D0%B9_%D0%BE%D0%B1%D1%89%D0%B8%D0%B9_%D0%B4%D0%B5%D0%BB%D0%B8%D1%82%D0%B5%D0%BB%D1%8C), написать функцию в 3 символа в строку и 7 строк, в ответах есть решения в 2 символа на строку
 * [CodeWars]() - [Template](5kyu/.Template.js)
 
 ### <a name="6kyu">6 kyu</a>
@@ -86,3 +87,5 @@
 ### <a name="8kyu">8 kyu</a>
 * [CodeWars](https://www.codewars.com/kata/regular-ball-super-ball/javascript) - [Regular Ball Super Ball](8kyu/RegularBallSuperBall.js)
 * [CodeWars](https://www.codewars.com/kata/color-ghost/train/javascript) - [ColorGhost](8kyu/ColorGhost.js) - object, class { constructor } 
+* [CodeWars](https://www.codewars.com/kata/grasshopper-terminal-game-number-1/train/javascript) - [Grasshopper - Terminal Game #1](8kyu/Grasshopper-TerminalGame1.js) - object, create class 
+* [CodeWars](https://www.codewars.com/kata/area-of-a-square-easy/train/javascript) - [Area of a Square (Easy)](8kyu/AreaOfASquare(Easy).js) - забавная задачка, на радиус
