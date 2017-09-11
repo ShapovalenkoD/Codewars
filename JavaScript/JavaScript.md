@@ -83,9 +83,10 @@
 * [CodeWars](https://www.codewars.com/kata/two-to-one/train/javascript) - [Two to One](7kyu/TwoToOne.js) : в решениях испольузют деструктуризацию массива и new Set (позволяет сохранять уникальные значения любого типа, как примитивы, так и другие типы объектов)
 * [CodeWars](https://www.codewars.com/kata/javascript-class-like-objects/train/javascript) - [JavaScript class-like objects](7kyu/JavaScriptClass-likeObjects.js) - class; object
 
-
 ### <a name="8kyu">8 kyu</a>
 * [CodeWars](https://www.codewars.com/kata/regular-ball-super-ball/javascript) - [Regular Ball Super Ball](8kyu/RegularBallSuperBall.js)
 * [CodeWars](https://www.codewars.com/kata/color-ghost/train/javascript) - [ColorGhost](8kyu/ColorGhost.js) - object, class { constructor } 
 * [CodeWars](https://www.codewars.com/kata/grasshopper-terminal-game-number-1/train/javascript) - [Grasshopper - Terminal Game #1](8kyu/Grasshopper-TerminalGame1.js) - object, create class 
 * [CodeWars](https://www.codewars.com/kata/area-of-a-square-easy/train/javascript) - [Area of a Square (Easy)](8kyu/AreaOfASquare(Easy).js) - забавная задачка, на радиус
+* [CodeWars](https://www.codewars.com/kata/welcome/train/javascript) - [Welcome!](8kyu/Welcome!.js) - object
+* [CodeWars](https://www.codewars.com/kata/alternating-case-%3C-equals-%3E-alternating-case/train/javascript) - [altERnaTIng cAsE <=> ALTerNAtiNG CaSe](8kyu/altERnaTIngcAsEALTerNAtiNGCaSe.js) - this, область видимости, задача явно не 8 ранга
