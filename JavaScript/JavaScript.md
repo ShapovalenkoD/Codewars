@@ -69,6 +69,7 @@
 * [CodeWars](https://www.codewars.com/kata/are-they-the-same/train/javascript) - [Are they the "same"?](6kyu/AreTheyThesame.js) - сравнение двух массивов, every() проверяет, удовлетворяют ли все элементы массива условию, заданному в передаваемой функции
 * [CodeWars](https://www.codewars.com/kata/duplicate-encoder/train/javascript) - [Duplicate Encoder](6kyu/DuplicateEncoder.js) - интересная задачка, проверяем если в нашей строке повторяющиеся символы, w.indexOf(a) == w.lastIndexOf(a)- проверка по индексу
 * [CodeWars](https://www.codewars.com/kata/valid-phone-number/train/javascript) - [Valid Phone Number](6kyu/ValidPhoneNumber.js) - RegExp 
+* [CodeWars](https://www.codewars.com/kata/count-the-smiley-faces/train/javascript) - [Count the smiley faces!](6kyu/CountTheSmileyFaces!.js) - RegExp; оригинальная задачка (условия) :)
 * [CodeWars]() - [Template](6kyu/.Template.js)
 
 ### <a name="7kyu">7 kyu</a>
