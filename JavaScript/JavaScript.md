@@ -84,7 +84,7 @@
 * [CodeWars](https://www.codewars.com/kata/two-to-one/train/javascript) - [Two to One](7kyu/TwoToOne.js) : в решениях испольузют деструктуризацию массива и new Set (позволяет сохранять уникальные значения любого типа, как примитивы, так и другие типы объектов)
 * [CodeWars](https://www.codewars.com/kata/javascript-class-like-objects/train/javascript) - [JavaScript class-like objects](7kyu/JavaScriptClass-likeObjects.js) - class; object
 * [CodeWars](https://www.codewars.com/kata/youre-a-square/train/javascript) - [You're a square!](7kyu/YoureASquare.js)
-
+* [CodeWars](https://www.codewars.com/kata/square-every-digit/train/javascript) - [Square Every Digit](7kyu/SquareEveryDigit.js)
 
 ### <a name="8kyu">8 kyu</a>
 * [CodeWars](https://www.codewars.com/kata/regular-ball-super-ball/javascript) - [Regular Ball Super Ball](8kyu/RegularBallSuperBall.js)
