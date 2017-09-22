@@ -70,7 +70,10 @@
 * [CodeWars](https://www.codewars.com/kata/duplicate-encoder/train/javascript) - [Duplicate Encoder](6kyu/DuplicateEncoder.js) - интересная задачка, проверяем если в нашей строке повторяющиеся символы, w.indexOf(a) == w.lastIndexOf(a)- проверка по индексу
 * [CodeWars](https://www.codewars.com/kata/valid-phone-number/train/javascript) - [Valid Phone Number](6kyu/ValidPhoneNumber.js) - RegExp 
 * [CodeWars](https://www.codewars.com/kata/count-the-smiley-faces/train/javascript) - [Count the smiley faces!](6kyu/CountTheSmileyFaces!.js) - RegExp; оригинальная задачка (условия) :)
+* [CodeWars](https://www.codewars.com/kata/find-the-divisors/train/javascript) - [Find the divisors!](6kyu/FindTheDivisors!.js) 
+* [CodeWars](https://www.codewars.com/kata/your-order-please/train/javascript) - [Your order, please](6kyu/YourOrderPlease.js) - решения топовое намного проще
 * [CodeWars]() - [Template](6kyu/.Template.js)
+
 
 ### <a name="7kyu">7 kyu</a>
 * [CodeWars](https://www.codewars.com/kata/categorize-new-member/train/javascript) - [Categorize new member](7kyu/CategorizeNewMember.js)
