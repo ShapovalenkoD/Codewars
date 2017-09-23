@@ -72,6 +72,9 @@
 * [CodeWars](https://www.codewars.com/kata/count-the-smiley-faces/train/javascript) - [Count the smiley faces!](6kyu/CountTheSmileyFaces!.js) - RegExp; оригинальная задачка (условия) :)
 * [CodeWars](https://www.codewars.com/kata/find-the-divisors/train/javascript) - [Find the divisors!](6kyu/FindTheDivisors!.js) 
 * [CodeWars](https://www.codewars.com/kata/your-order-please/train/javascript) - [Your order, please](6kyu/YourOrderPlease.js) - решения топовое намного проще
+* [CodeWars](https://www.codewars.com/kata/counting-duplicates/train/javascript) - [Counting Duplicates](6kyu/CountingDuplicates.js) RegExp ([^])\1+ - интересное решениях регулярках, находит все вхождение где больше 2 одинаковых символов
+* [CodeWars](https://www.codewars.com/kata/build-a-pile-of-cubes/train/javascript) - [Build a pile of Cubes](6kyu/BuildAPileOfCubes.js) - в решениях есть формула сумма кубов чисел n^3 + (n-1)^3 + ... 1^3
+* [CodeWars](https://www.codewars.com/kata/does-my-number-look-big-in-this/train/javascript) - [Does my number look big in this?](6kyu/DoesMyNumberLookBigInThis.js)
 * [CodeWars]() - [Template](6kyu/.Template.js)
 
 
