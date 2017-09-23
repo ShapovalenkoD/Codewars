@@ -75,6 +75,7 @@
 * [CodeWars](https://www.codewars.com/kata/counting-duplicates/train/javascript) - [Counting Duplicates](6kyu/CountingDuplicates.js) RegExp ([^])\1+ - интересное решениях регулярках, находит все вхождение где больше 2 одинаковых символов
 * [CodeWars](https://www.codewars.com/kata/build-a-pile-of-cubes/train/javascript) - [Build a pile of Cubes](6kyu/BuildAPileOfCubes.js) - в решениях есть формула сумма кубов чисел n^3 + (n-1)^3 + ... 1^3
 * [CodeWars](https://www.codewars.com/kata/does-my-number-look-big-in-this/train/javascript) - [Does my number look big in this?](6kyu/DoesMyNumberLookBigInThis.js)
+* [CodeWars](https://www.codewars.com/kata/equal-sides-of-an-array/train/javascript) - [Equal Sides Of An Array](6kyu/EqualSidesOfAnArray.js)
 * [CodeWars]() - [Template](6kyu/.Template.js)
 
 
@@ -91,6 +92,9 @@
 * [CodeWars](https://www.codewars.com/kata/javascript-class-like-objects/train/javascript) - [JavaScript class-like objects](7kyu/JavaScriptClass-likeObjects.js) - class; object
 * [CodeWars](https://www.codewars.com/kata/youre-a-square/train/javascript) - [You're a square!](7kyu/YoureASquare.js)
 * [CodeWars](https://www.codewars.com/kata/square-every-digit/train/javascript) - [Square Every Digit](7kyu/SquareEveryDigit.js)
+* [CodeWars](https://www.codewars.com/kata/madhav-array/train/javascript) - [Madhav array](7kyu/MadhavArray.js) - интересная задачка, явно не для 7 ранга 
+* [CodeWars]() - [Template](7kyu/.Template.js)
+
 
 ### <a name="8kyu">8 kyu</a>
 * [CodeWars](https://www.codewars.com/kata/regular-ball-super-ball/javascript) - [Regular Ball Super Ball](8kyu/RegularBallSuperBall.js)
