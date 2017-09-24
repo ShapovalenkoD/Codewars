@@ -76,8 +76,9 @@
 * [CodeWars](https://www.codewars.com/kata/build-a-pile-of-cubes/train/javascript) - [Build a pile of Cubes](6kyu/BuildAPileOfCubes.js) - в решениях есть формула сумма кубов чисел n^3 + (n-1)^3 + ... 1^3
 * [CodeWars](https://www.codewars.com/kata/does-my-number-look-big-in-this/train/javascript) - [Does my number look big in this?](6kyu/DoesMyNumberLookBigInThis.js)
 * [CodeWars](https://www.codewars.com/kata/equal-sides-of-an-array/train/javascript) - [Equal Sides Of An Array](6kyu/EqualSidesOfAnArray.js)
+* [CodeWars](https://www.codewars.com/kata/tribonacci-sequence/train/javascript) - [Tribonacci Sequence](6kyu/TribonacciSequence.js)
+* [CodeWars](https://www.codewars.com/kata/array-helpers/train/javascript) - [Array Helpers](6kyu/ArrayHelpers.js) - Свойство Array.prototype представляет прототип для конструктора Array
 * [CodeWars]() - [Template](6kyu/.Template.js)
-
 
 ### <a name="7kyu">7 kyu</a>
 * [CodeWars](https://www.codewars.com/kata/categorize-new-member/train/javascript) - [Categorize new member](7kyu/CategorizeNewMember.js)
