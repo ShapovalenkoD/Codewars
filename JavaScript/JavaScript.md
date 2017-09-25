@@ -78,7 +78,12 @@
 * [CodeWars](https://www.codewars.com/kata/equal-sides-of-an-array/train/javascript) - [Equal Sides Of An Array](6kyu/EqualSidesOfAnArray.js)
 * [CodeWars](https://www.codewars.com/kata/tribonacci-sequence/train/javascript) - [Tribonacci Sequence](6kyu/TribonacciSequence.js)
 * [CodeWars](https://www.codewars.com/kata/array-helpers/train/javascript) - [Array Helpers](6kyu/ArrayHelpers.js) - Свойство Array.prototype представляет прототип для конструктора Array
+* [CodeWars](https://www.codewars.com/kata/give-me-a-diamond/train/javascript) - [Give me a Diamond](6kyu/GiveMeADiamond.js) - интересная задачка, похожа на построить башню из *, только сложнее
+* [CodeWars](https://www.codewars.com/kata/take-a-number-and-sum-its-digits-raised-to-the-consecutive-powers-and-dot-dot-dot-eureka/train/javascript) - [Take a Number And Sum Its Digits Raised To The Consecutive Powers And ....¡Eureka!!](6kyu/TakeANumberAndSumItsDigitsRaisedToTheConsecutivePowersAnd¡Eureka.js) - 
+* [CodeWars](https://www.codewars.com/kata/find-the-missing-letter/train/javascript) - [ind the missing letter](6kyu/IndTheMissingLetter.js) - RegExp
+* [CodeWars](https://www.codewars.com/kata/count-characters-in-your-string/train/javascript) - [Count characters in your string](6kyu/CountCharactersInYourString.js) - object
 * [CodeWars]() - [Template](6kyu/.Template.js)
+
 
 ### <a name="7kyu">7 kyu</a>
 * [CodeWars](https://www.codewars.com/kata/categorize-new-member/train/javascript) - [Categorize new member](7kyu/CategorizeNewMember.js)
