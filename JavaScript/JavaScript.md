@@ -9,6 +9,7 @@
 * [CodeWars](https://www.codewars.com/kata/strip-comments/train/javascript) - [StripComments](4kyu/StripComments.js) - RegExp; с маркерами
 * [CodeWars](https://www.codewars.com/kata/regular-expression-for-binary-numbers-divisible-by-5/train/javascript) - [Regular expression for binary numbers divisible by 5](4kyu/RegularExpressionForBinaryNumbersDivisibleBy5.js) - RegExp 
 * [CodeWars](https://www.codewars.com/kata/54de279df565808f8b00126a) - [Binary multiple of 3](4kyu/BinaryMultipleOf3.js) - RegExp
+* [CodeWars](https://www.codewars.com/kata/strip-url-params/train/javascript) - [Strip Url Params](4kyu/StripUrlParams.js) - RegExp
 * [CodeWars]() - [Template](4kyu/.Template.js)
 
 ### <a name="5kyu">5 kyu</a>
