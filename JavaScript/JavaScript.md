@@ -10,6 +10,8 @@
 * [CodeWars](https://www.codewars.com/kata/regular-expression-for-binary-numbers-divisible-by-5/train/javascript) - [Regular expression for binary numbers divisible by 5](4kyu/RegularExpressionForBinaryNumbersDivisibleBy5.js) - RegExp 
 * [CodeWars](https://www.codewars.com/kata/54de279df565808f8b00126a) - [Binary multiple of 3](4kyu/BinaryMultipleOf3.js) - RegExp
 * [CodeWars](https://www.codewars.com/kata/strip-url-params/train/javascript) - [Strip Url Params](4kyu/StripUrlParams.js) - RegExp
+* [CodeWars](https://www.codewars.com/kata/roman-numerals-encoder/train/javascript) - [Roman Numerals Encoder](4kyu/RomanNumeralsEncoder.js)
+* [CodeWars](https://www.codewars.com/kata/roman-numerals-decoder/train/javascript) - [Roman Numerals Decoder](4kyu/RomanNumeralsDecoder.js) - решаю
 * [CodeWars]() - [Template](4kyu/.Template.js)
 
 ### <a name="5kyu">5 kyu</a>
