@@ -12,7 +12,10 @@
 * [CodeWars](https://www.codewars.com/kata/strip-url-params/train/javascript) - [Strip Url Params](4kyu/StripUrlParams.js) - RegExp
 * [CodeWars](https://www.codewars.com/kata/roman-numerals-encoder/train/javascript) - [Roman Numerals Encoder](4kyu/RomanNumeralsEncoder.js)
 * [CodeWars](https://www.codewars.com/kata/roman-numerals-decoder/train/javascript) - [Roman Numerals Decoder](4kyu/RomanNumeralsDecoder.js) - решаю
+* [CodeWars](http://www.codewars.com/kata/pick-peaks/train/javascript) - [Pick peaks](4kyu/PickPeaks.js)
 * [CodeWars]() - [Template](4kyu/.Template.js)
+
+
 
 ### <a name="5kyu">5 kyu</a>
 * [CodeWars](https://www.codewars.com/kata/513fa1d75e4297ba38000003) - [flatten()](5kyu/flatten().js)
@@ -37,6 +40,7 @@
 * [CodeWars](https://www.codewars.com/kata/human-readable-time/train/javascript) - [Human Readable Time](5kyu/HumanReadableTime.js) - Задача про время, из секунд в формат (HH:MM:SS)
 * [CodeWars](https://www.codewars.com/kata/largest-5-digit-number-in-a-series/train/javascript) - [Largest 5 digit number in a series](5kyu/Largest5DigitNumberInASeries.js) - Найти максимальное пятисимвольное число из порядка цифр, топорное решения, перебирая все значения возможные, substr() возвращает указанное количество символов из строки, начиная с указанной позиции
 * [CodeWars](https://www.codewars.com/kata/multi-line-task-gcd-function/train/javascript) - [Multi Line Task: GCD Function](5kyu/MultiLineTaskGCDFunction.js) - GCD - [Наибольший общий делитель](https://ru.wikipedia.org/wiki/%D0%9D%D0%B0%D0%B8%D0%B1%D0%BE%D0%BB%D1%8C%D1%88%D0%B8%D0%B9_%D0%BE%D0%B1%D1%89%D0%B8%D0%B9_%D0%B4%D0%B5%D0%BB%D0%B8%D1%82%D0%B5%D0%BB%D1%8C), написать функцию в 3 символа в строку и 7 строк, в ответах есть решения в 2 символа на строку
+* [CodeWars](http://www.codewars.com/kata/maximum-subarray-sum/train/javascript) - [Maximum subarray sum](5kyu/MaximumSubarraySum.js)
 * [CodeWars]() - [Template](5kyu/.Template.js)
 
 ### <a name="6kyu">6 kyu</a>
@@ -103,8 +107,8 @@
 * [CodeWars](https://www.codewars.com/kata/youre-a-square/train/javascript) - [You're a square!](7kyu/YoureASquare.js)
 * [CodeWars](https://www.codewars.com/kata/square-every-digit/train/javascript) - [Square Every Digit](7kyu/SquareEveryDigit.js)
 * [CodeWars](https://www.codewars.com/kata/madhav-array/train/javascript) - [Madhav array](7kyu/MadhavArray.js) - интересная задачка, явно не для 7 ранга 
+* [CodeWars](http://www.codewars.com/kata/letterbox-paint-squad/train/javascript) - [Letterbox Paint-Squad](7kyu/LetterboxPaint-Squad.js) - интересная задачка
 * [CodeWars]() - [Template](7kyu/.Template.js)
-
 
 ### <a name="8kyu">8 kyu</a>
 * [CodeWars](https://www.codewars.com/kata/regular-ball-super-ball/javascript) - [Regular Ball Super Ball](8kyu/RegularBallSuperBall.js)
