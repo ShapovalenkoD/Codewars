@@ -91,7 +91,9 @@
 * [CodeWars](https://www.codewars.com/kata/count-characters-in-your-string/train/javascript) - [Count characters in your string](6kyu/CountCharactersInYourString.js) - object
 * [CodeWars](https://www.codewars.com/kata/throwing-darts/train/javascript) - [Throwing Darts](6kyu/ThrowingDarts.js)
 * [CodeWars](https://www.codewars.com/kata/sort-arrays-ignoring-case/train/javascript) - [Sort Arrays (Ignoring Case)](6kyu/SortArrays(IgnoringCase).js) - localeCompare() сортировка массива с заглавной буквой
+* [https://www.codewars.com/kata/sort-the-odd/train/javascript]() - [Sort the odd](6kyu/SortTheOdd.js)
 * [CodeWars]() - [Template](6kyu/.Template.js)
+
 
 ### <a name="7kyu">7 kyu</a>
 * [CodeWars](https://www.codewars.com/kata/categorize-new-member/train/javascript) - [Categorize new member](7kyu/CategorizeNewMember.js)
