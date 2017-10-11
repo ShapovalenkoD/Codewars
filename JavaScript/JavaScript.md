@@ -110,7 +110,8 @@
 * [CodeWars](https://www.codewars.com/kata/square-every-digit/train/javascript) - [Square Every Digit](7kyu/SquareEveryDigit.js)
 * [CodeWars](https://www.codewars.com/kata/madhav-array/train/javascript) - [Madhav array](7kyu/MadhavArray.js) - интересная задачка, явно не для 7 ранга 
 * [CodeWars](http://www.codewars.com/kata/letterbox-paint-squad/train/javascript) - [Letterbox Paint-Squad](7kyu/LetterboxPaint-Squad.js) - интересная задачка
-* [CodeWars]() - [Template](7kyu/.Template.js)
+* [CodeWars](http://www.codewars.com/kata/zero-balanced-array/train/javascript) - [zero-balanced Array](7kyu/ZeroBalancedArray.js) - сравнения двух массивов 
+* [CodeWars]() - [Template](7kyu/.Template.js) 
 
 ### <a name="8kyu">8 kyu</a>
 * [CodeWars](https://www.codewars.com/kata/regular-ball-super-ball/javascript) - [Regular Ball Super Ball](8kyu/RegularBallSuperBall.js)
