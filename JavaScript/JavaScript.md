@@ -13,7 +13,7 @@
 * [CodeWars](https://www.codewars.com/kata/roman-numerals-encoder/train/javascript) - [Roman Numerals Encoder](4kyu/RomanNumeralsEncoder.js)
 * [CodeWars](https://www.codewars.com/kata/roman-numerals-decoder/train/javascript) - [Roman Numerals Decoder](4kyu/RomanNumeralsDecoder.js) - решаю
 * [CodeWars](http://www.codewars.com/kata/pick-peaks/train/javascript) - [Pick peaks](4kyu/PickPeaks.js)
-* [CodeWars](http://www.codewars.com/kata/breadcrumb-generator/train/javascript) - [Breadcrumb Generator](4kyu/BreadcrumbGenerator.js) - решаю
+* [CodeWars](http://www.codewars.com/kata/breadcrumb-generator/train/javascript) - [Breadcrumb Generator](4kyu/BreadcrumbGenerator.js) - RegExp 
 * [CodeWars]() - [Template](4kyu/.Template.js) 
 
 
