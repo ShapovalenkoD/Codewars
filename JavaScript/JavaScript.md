@@ -112,6 +112,7 @@
 * [CodeWars](https://www.codewars.com/kata/madhav-array/train/javascript) - [Madhav array](7kyu/MadhavArray.js) - интересная задачка, явно не для 7 ранга 
 * [CodeWars](http://www.codewars.com/kata/letterbox-paint-squad/train/javascript) - [Letterbox Paint-Squad](7kyu/LetterboxPaint-Squad.js) - интересная задачка
 * [CodeWars](http://www.codewars.com/kata/zero-balanced-array/train/javascript) - [zero-balanced Array](7kyu/ZeroBalancedArray.js) - сравнения двух массивов 
+* [CodeWars](https://www.codewars.com/kata/manipulate-url-parameters/train/javascript) - [Manipulate URL Parameters](7kyu/ManipulateURLParameters.js) - include определяет, находится ли одна строка внутри другой
 * [CodeWars]() - [Template](7kyu/.Template.js) 
 
 ### <a name="8kyu">8 kyu</a>
