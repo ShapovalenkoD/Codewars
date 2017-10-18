@@ -94,6 +94,7 @@
 * [CodeWars](https://www.codewars.com/kata/throwing-darts/train/javascript) - [Throwing Darts](6kyu/ThrowingDarts.js)
 * [CodeWars](https://www.codewars.com/kata/sort-arrays-ignoring-case/train/javascript) - [Sort Arrays (Ignoring Case)](6kyu/SortArrays(IgnoringCase).js) - localeCompare() сортировка массива с заглавной буквой
 * [CodeWars](https://www.codewars.com/kata/sort-the-odd/train/javascript) - [Sort the odd](6kyu/SortTheOdd.js)
+* [CodeWars](https://www.codewars.com/kata/rectangle-into-squares/train/javascript) - [Rectangle into Squares](6kyu/RectangleIntoSquares.js)
 * [CodeWars]() - [Template](6kyu/.Template.js)
 
 
