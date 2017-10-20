@@ -1,6 +1,10 @@
 # Javascript
 
-[8 kyu](#8kyu) | [7 kyu](#7kyu) | [6 kyu](#6kyu) | [5 kyu](#5kyu) | [4 kyu](#4kyu)
+[8 kyu](#8kyu) | [7 kyu](#7kyu) | [6 kyu](#6kyu) | [5 kyu](#5kyu) | [4 kyu](#4kyu) | [3 kyu](#3kyu)
+
+### <a name="3kyu">3 kyu</a>
+* [CodeWars](https://www.codewars.com/kata/hard-time-bomb/train/javascript) - [Hard Time Bomb](3kyu/HardTimeBomb.js) - задачка головоломка
+* [CodeWars]() - [Template](3kyu/.Template.js) 
 
 
 ### <a name="4kyu">4 kyu</a>
@@ -15,8 +19,6 @@
 * [CodeWars](http://www.codewars.com/kata/pick-peaks/train/javascript) - [Pick peaks](4kyu/PickPeaks.js)
 * [CodeWars](http://www.codewars.com/kata/breadcrumb-generator/train/javascript) - [Breadcrumb Generator](4kyu/BreadcrumbGenerator.js) - RegExp 
 * [CodeWars]() - [Template](4kyu/.Template.js) 
-
-
 
 ### <a name="5kyu">5 kyu</a>
 * [CodeWars](https://www.codewars.com/kata/513fa1d75e4297ba38000003) - [flatten()](5kyu/flatten().js)
