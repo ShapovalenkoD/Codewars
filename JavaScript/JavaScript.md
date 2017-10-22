@@ -99,7 +99,9 @@
 * [CodeWars](https://www.codewars.com/kata/rectangle-into-squares/train/javascript) - [Rectangle into Squares](6kyu/RectangleIntoSquares.js)
 * [CodeWars](https://www.codewars.com/kata/alphabet-wars-reinforces-massacre/train/javascript) - [Alphabet wars - reinforces massacre](6kyu/AlphabetWarsReinforcesMassacre.js)
 * [CodeWars](https://www.codewars.com/kata/triple-trouble-1/train/javascript) - [Triple trouble](6kyu/TripleTrouble.js) - RegExp c числами, решил через сравнение массивов 
+* [CodeWars](https://www.codewars.com/kata/validate-credit-card-number/train/javascript) - [Validate Credit Card Number](6kyu/ValidateCreditCardNumber.js)
 * [CodeWars]() - [Template](6kyu/.Template.js)
+
 
 ### <a name="7kyu">7 kyu</a>
 * [CodeWars](https://www.codewars.com/kata/categorize-new-member/train/javascript) - [Categorize new member](7kyu/CategorizeNewMember.js)
