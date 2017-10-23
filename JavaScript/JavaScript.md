@@ -45,7 +45,7 @@
 * [CodeWars](https://www.codewars.com/kata/multi-line-task-gcd-function/train/javascript) - [Multi Line Task: GCD Function](5kyu/MultiLineTaskGCDFunction.js) - GCD - [Наибольший общий делитель](https://ru.wikipedia.org/wiki/%D0%9D%D0%B0%D0%B8%D0%B1%D0%BE%D0%BB%D1%8C%D1%88%D0%B8%D0%B9_%D0%BE%D0%B1%D1%89%D0%B8%D0%B9_%D0%B4%D0%B5%D0%BB%D0%B8%D1%82%D0%B5%D0%BB%D1%8C), написать функцию в 3 символа в строку и 7 строк, в ответах есть решения в 2 символа на строку
 * [CodeWars](http://www.codewars.com/kata/maximum-subarray-sum/train/javascript) - [Maximum subarray sum](5kyu/MaximumSubarraySum.js)
 * [CodeWars](https://www.codewars.com/kata/number-of-trailing-zeros-of-n/train/javascript) - [Number of trailing zeros of N!](5kyu/NumberOfTrailingZerosOfN!.js)
-* [CodeWars](https://www.codewars.com/kata/where-my-anagrams-at/train/javascript) - [Where my anagrams at?](5kyu/WhereMyAnagramsAt?.js)
+* [CodeWars](https://www.codewars.com/kata/where-my-anagrams-at/train/javascript) - [Where my anagrams at?](5kyu/WhereMyAnagramsAt.js)
 * [CodeWars]() - [Template](5kyu/.Template.js)
 
 
