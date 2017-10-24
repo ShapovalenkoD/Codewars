@@ -102,6 +102,7 @@
 * [CodeWars](https://www.codewars.com/kata/alphabet-wars-reinforces-massacre/train/javascript) - [Alphabet wars - reinforces massacre](6kyu/AlphabetWarsReinforcesMassacre.js)
 * [CodeWars](https://www.codewars.com/kata/triple-trouble-1/train/javascript) - [Triple trouble](6kyu/TripleTrouble.js) - RegExp c числами, решил через сравнение массивов 
 * [CodeWars](https://www.codewars.com/kata/validate-credit-card-number/train/javascript) - [Validate Credit Card Number](6kyu/ValidateCreditCardNumber.js)
+* [CodeWars](https://www.codewars.com/kata/function-composition/train/javascript) - [Function Composition](6kyu/FunctionComposition.js) - лямда функция, call, apply
 * [CodeWars]() - [Template](6kyu/.Template.js)
 
 
