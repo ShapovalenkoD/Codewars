@@ -46,6 +46,7 @@
 * [CodeWars](http://www.codewars.com/kata/maximum-subarray-sum/train/javascript) - [Maximum subarray sum](5kyu/MaximumSubarraySum.js)
 * [CodeWars](https://www.codewars.com/kata/number-of-trailing-zeros-of-n/train/javascript) - [Number of trailing zeros of N!](5kyu/NumberOfTrailingZerosOfN!.js)
 * [CodeWars](https://www.codewars.com/kata/where-my-anagrams-at/train/javascript) - [Where my anagrams at?](5kyu/WhereMyAnagramsAt.js)
+* [CodeWars](https://www.codewars.com/kata/greed-is-good/train/javascript) - [Greed is Good](5kyu/GreedIsGood.js) - Object, перебор объектов, одина элементы массива
 * [CodeWars]() - [Template](5kyu/.Template.js)
 
 
