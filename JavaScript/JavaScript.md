@@ -4,8 +4,8 @@
 
 ### <a name="3kyu">3 kyu</a>
 * [CodeWars](https://www.codewars.com/kata/hard-time-bomb/train/javascript) - [Hard Time Bomb](3kyu/HardTimeBomb.js) - задачка головоломка
-* [CodeWars]() - [Template](3kyu/.Template.js) 
-
+* [CodeWars](https://www.codewars.com/kata/multiplying-numbers-as-strings/train/javascript) - [Multiplying numbers as strings](3kyu/MultiplyingNumbersAsStrings.js) 
+* [CodeWars]() - [Template](3kyu/.Template.js)
 
 ### <a name="4kyu">4 kyu</a>
 * [CodeWars](https://www.codewars.com/kata/valid-braces/train/javascript) - [Valid Braces](4kyu/ValidBraces.js) - задача про скобки () {} [], практически аналогичная с задачей 5 сложности, но тут более интересные cleave solution ([CodeWars](https://www.codewars.com/kata/valid-parentheses/train/javascript) - [Valid Parentheses 5kyu](5kyu/ValidParentheses.js))
