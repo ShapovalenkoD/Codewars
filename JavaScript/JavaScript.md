@@ -47,6 +47,7 @@
 * [CodeWars](https://www.codewars.com/kata/number-of-trailing-zeros-of-n/train/javascript) - [Number of trailing zeros of N!](5kyu/NumberOfTrailingZerosOfN!.js)
 * [CodeWars](https://www.codewars.com/kata/where-my-anagrams-at/train/javascript) - [Where my anagrams at?](5kyu/WhereMyAnagramsAt.js)
 * [CodeWars](https://www.codewars.com/kata/greed-is-good/train/javascript) - [Greed is Good](5kyu/GreedIsGood.js) - Object, перебор объектов, одина элементы массива
+* [CodeWars](https://www.codewars.com/kata/find-the-missing-term-in-an-arithmetic-progression/train/javascript) - [Find the missing term in an Arithmetic Progression](5kyu/FindTheMissingTermInAnArithmeticProgression.js)
 * [CodeWars]() - [Template](5kyu/.Template.js)
 
 
