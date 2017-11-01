@@ -48,6 +48,7 @@
 * [CodeWars](https://www.codewars.com/kata/where-my-anagrams-at/train/javascript) - [Where my anagrams at?](5kyu/WhereMyAnagramsAt.js)
 * [CodeWars](https://www.codewars.com/kata/greed-is-good/train/javascript) - [Greed is Good](5kyu/GreedIsGood.js) - Object, перебор объектов, одина элементы массива
 * [CodeWars](https://www.codewars.com/kata/find-the-missing-term-in-an-arithmetic-progression/train/javascript) - [Find the missing term in an Arithmetic Progression](5kyu/FindTheMissingTermInAnArithmeticProgression.js)
+* [CodeWars](https://www.codewars.com/kata/pete-the-baker/train/javascript) - [Pete, the baker](5kyu/PeteTheBaker.js) object
 * [CodeWars]() - [Template](5kyu/.Template.js)
 
 
