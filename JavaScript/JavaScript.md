@@ -18,7 +18,8 @@
 * [CodeWars](https://www.codewars.com/kata/roman-numerals-decoder/train/javascript) - [Roman Numerals Decoder](4kyu/RomanNumeralsDecoder.js) - решаю
 * [CodeWars](http://www.codewars.com/kata/pick-peaks/train/javascript) - [Pick peaks](4kyu/PickPeaks.js)
 * [CodeWars](http://www.codewars.com/kata/breadcrumb-generator/train/javascript) - [Breadcrumb Generator](4kyu/BreadcrumbGenerator.js) - RegExp 
-* [CodeWars]() - [Template](4kyu/.Template.js) 
+* [CodeWars](https://www.codewars.com/kata/hello-w-dot-dot-dot-wait-what/train/javascript) - [Hello W... wait what?](4kyu/HelloWWaitWhat.js) - puzzle
+* [CodeWars]() - [Template](4kyu/.Template.js)
 
 ### <a name="5kyu">5 kyu</a>
 * [CodeWars](https://www.codewars.com/kata/513fa1d75e4297ba38000003) - [flatten()](5kyu/flatten().js)
