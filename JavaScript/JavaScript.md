@@ -51,6 +51,7 @@
 * [CodeWars](https://www.codewars.com/kata/find-the-missing-term-in-an-arithmetic-progression/train/javascript) - [Find the missing term in an Arithmetic Progression](5kyu/FindTheMissingTermInAnArithmeticProgression.js)
 * [CodeWars](https://www.codewars.com/kata/pete-the-baker/train/javascript) - [Pete, the baker](5kyu/PeteTheBaker.js) object
 * [CodeWars](https://www.codewars.com/kata/part-1-evil-programming-government-restrictions/train/javascript) - [Part 1: Evil Programming Government Restrictions](5kyu/Part1EvilProgrammingGovernmentRestrictions.js) - puzzles
+* [CodeWars](https://www.codewars.com/kata/simple-time-bomb/train/javascript) - [Simple Time Bomb](5kyu/SimpleTimeBomb.js) - puzzles
 * [CodeWars]() - [Template](5kyu/.Template.js)
 
 ### <a name="6kyu">6 kyu</a>
