@@ -19,7 +19,7 @@
 * [CodeWars](http://www.codewars.com/kata/pick-peaks/train/javascript) - [Pick peaks](4kyu/PickPeaks.js)
 * [CodeWars](http://www.codewars.com/kata/breadcrumb-generator/train/javascript) - [Breadcrumb Generator](4kyu/BreadcrumbGenerator.js) - RegExp 
 * [CodeWars](https://www.codewars.com/kata/hello-w-dot-dot-dot-wait-what/train/javascript) - [Hello W... wait what?](4kyu/HelloWWaitWhat.js) - puzzle
-* [CodeWars](https://www.codewars.com/kata/how-many-numbers-iii) - [How many numbers III?](4kyu/HowManyNumbersIII?.js)
+* [CodeWars](https://www.codewars.com/kata/how-many-numbers-iii) - [How many numbers III?](4kyu/HowManyNumbersIII?.js) - переделать, долгое решение
 * [CodeWars]() - [Template](4kyu/.Template.js)
 
 ### <a name="5kyu">5 kyu</a>
@@ -54,6 +54,8 @@
 * [CodeWars](https://www.codewars.com/kata/part-1-evil-programming-government-restrictions/train/javascript) - [Part 1: Evil Programming Government Restrictions](5kyu/Part1EvilProgrammingGovernmentRestrictions.js) - puzzles
 * [CodeWars](https://www.codewars.com/kata/simple-time-bomb/train/javascript) - [Simple Time Bomb](5kyu/SimpleTimeBomb.js) - puzzles
 * [CodeWars](https://www.codewars.com/kata/now-thats-a-crib/train/javascript) - [Now that's a crib!](5kyu/NowThatsACrib.js) - нарисовать дом 
+* [CodeWars](https://www.codewars.com/kata/best-travel/train/javascript) - [Best travel](5kyu/BestTravel.js) - решаю
+* [CodeWars](https://www.codewars.com/kata/basic-denico/train/javascript) - [Basic DeNico](5kyu/BasicDeNico.js)
 * [CodeWars]() - [Template](5kyu/.Template.js)
 
 ### <a name="6kyu">6 kyu</a>
