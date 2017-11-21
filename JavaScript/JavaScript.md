@@ -54,7 +54,7 @@
 * [CodeWars](https://www.codewars.com/kata/part-1-evil-programming-government-restrictions/train/javascript) - [Part 1: Evil Programming Government Restrictions](5kyu/Part1EvilProgrammingGovernmentRestrictions.js) - puzzles
 * [CodeWars](https://www.codewars.com/kata/simple-time-bomb/train/javascript) - [Simple Time Bomb](5kyu/SimpleTimeBomb.js) - puzzles
 * [CodeWars](https://www.codewars.com/kata/now-thats-a-crib/train/javascript) - [Now that's a crib!](5kyu/NowThatsACrib.js) - нарисовать дом 
-* [CodeWars](https://www.codewars.com/kata/best-travel/train/javascript) - [Best travel](5kyu/BestTravel.js) - решаю
+* [CodeWars](https://www.codewars.com/kata/best-travel/train/javascript) - [Best travel](5kyu/BestTravel.js) - рекурсия
 * [CodeWars](https://www.codewars.com/kata/basic-denico/train/javascript) - [Basic DeNico](5kyu/BasicDeNico.js)
 * [CodeWars](https://www.codewars.com/kata/airport-arrivals-slash-departures-number-1/train/javascript) - [Airport Arrivals/Departures - #1](5kyu/AirportArrivalsDepartures.js)
 * [CodeWars]() - [Template](5kyu/.Template.js)
