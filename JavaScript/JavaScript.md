@@ -116,8 +116,8 @@
 * [CodeWars](https://www.codewars.com/kata/function-composition/train/javascript) - [Function Composition](6kyu/FunctionComposition.js) - лямда функция, call, apply
 * [CodeWars](https://www.codewars.com/kata/sequences-and-series/train/javascript) - [Sequences and Series](6kyu/SequencesAndSeries.js) - puzzles
 * [CodeWars](https://www.codewars.com/kata/fibonacci-tribonacci-and-friends/train/javascript) - [Fibonacci, Tribonacci and friends](6kyu/FibonacciTribonacciAndFriends.js)
+* [CodeWars](https://www.codewars.com/kata/write-number-in-expanded-form/train/javascript) - [Write Number in Expanded Form](6kyu/WriteNumberInExpandedForm.js)
 * [CodeWars]() - [Template](6kyu/.Template.js)
-
 
 ### <a name="7kyu">7 kyu</a>
 * [CodeWars](https://www.codewars.com/kata/categorize-new-member/train/javascript) - [Categorize new member](7kyu/CategorizeNewMember.js)
