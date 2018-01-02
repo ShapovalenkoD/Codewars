@@ -136,6 +136,7 @@
 * [CodeWars](http://www.codewars.com/kata/letterbox-paint-squad/train/javascript) - [Letterbox Paint-Squad](7kyu/LetterboxPaint-Squad.js) - интересная задачка
 * [CodeWars](http://www.codewars.com/kata/zero-balanced-array/train/javascript) - [zero-balanced Array](7kyu/ZeroBalancedArray.js) - сравнения двух массивов 
 * [CodeWars](https://www.codewars.com/kata/manipulate-url-parameters/train/javascript) - [Manipulate URL Parameters](7kyu/ManipulateURLParameters.js) - include определяет, находится ли одна строка внутри другой
+* [CodeWars](https://www.codewars.com/kata/creating-elements-with-react/train/javascript) - [Creating Elements with React](7kyu/CreatingElementsWithReact.js)  - React
 * [CodeWars]() - [Template](7kyu/.Template.js) 
 
 ### <a name="8kyu">8 kyu</a>
