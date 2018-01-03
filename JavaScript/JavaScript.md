@@ -117,6 +117,7 @@
 * [CodeWars](https://www.codewars.com/kata/sequences-and-series/train/javascript) - [Sequences and Series](6kyu/SequencesAndSeries.js) - puzzles
 * [CodeWars](https://www.codewars.com/kata/fibonacci-tribonacci-and-friends/train/javascript) - [Fibonacci, Tribonacci and friends](6kyu/FibonacciTribonacciAndFriends.js)
 * [CodeWars](https://www.codewars.com/kata/write-number-in-expanded-form/train/javascript) - [Write Number in Expanded Form](6kyu/WriteNumberInExpandedForm.js)
+* [CodeWars](https://www.codewars.com/kata/react-with-jsx/train/javascript) - [React with JSX](6kyu/ReactWithJSX.js) - React
 * [CodeWars]() - [Template](6kyu/.Template.js)
 
 ### <a name="7kyu">7 kyu</a>
