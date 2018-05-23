@@ -139,6 +139,7 @@
 * [CodeWars](http://www.codewars.com/kata/zero-balanced-array/train/javascript) - [zero-balanced Array](7kyu/ZeroBalancedArray.js) - сравнения двух массивов 
 * [CodeWars](https://www.codewars.com/kata/manipulate-url-parameters/train/javascript) - [Manipulate URL Parameters](7kyu/ManipulateURLParameters.js) - include определяет, находится ли одна строка внутри другой
 * [CodeWars](https://www.codewars.com/kata/creating-elements-with-react/train/javascript) - [Creating Elements with React](7kyu/CreatingElementsWithReact.js)  - React
+* [CodeWars](https://www.codewars.com/kata/united-state-of-react/train/javascript) - [United State of React](7kyu/UnitedStateOfReact.js)  - React 
 * [CodeWars]() - [Template](7kyu/.Template.js) 
 
 ### <a name="8kyu">8 kyu</a>
