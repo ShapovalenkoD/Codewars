@@ -119,6 +119,7 @@
 * [CodeWars](https://www.codewars.com/kata/write-number-in-expanded-form/train/javascript) - [Write Number in Expanded Form](6kyu/WriteNumberInExpandedForm.js)
 * [CodeWars](https://www.codewars.com/kata/react-with-jsx/train/javascript) - [React with JSX](6kyu/ReactWithJSX.js) - React
 * [CodeWars](https://www.codewars.com/kata/react-fun-number-1-component-types-and-nesting/train/javascript) - [React Fun #1: Component types and nesting](6kyu/ReactFun1ComponentTypesAndNesting.js) - React
+* [CodeWars](https://www.codewars.com/kata/easter-egg-list-in-reactjs/train/javascript) - [Easter egg list in ReactJS](6kyu/EasterEggListInReactJS.js) - React
 * [CodeWars]() - [Template](6kyu/.Template.js)
 
 ### <a name="7kyu">7 kyu</a>
